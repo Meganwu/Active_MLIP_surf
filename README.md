@@ -25,10 +25,10 @@
 
 
 
-# About AutoOSS
+# About Active_MLIP_surf
 <img src="./Image/total_architecture_zn_color_hel_font.png" alt="Workflow" style="width:90%;">
 
-We developed the framework of AutoOSS (Autonomous on-surface synthesis) to automate chemical reactions (break bond, move fragments, form bond and assebmle structures) in scanning tunneling microscopy based on Nanonis V5 (part function based on Createc is also avaialble on GitHub https://github.com/Meganwu/AutoOSS_nanonis). It comprises the remote connection, target dection module, interpetation module (image classifiers to identify reactants and products), decision-making module to optimize manipulation parameters for each function as well as miscellaneous analysis scritps. 
+Given the structures of a molecule and a surface, the software Active_MLIP_surf can automatedly generate efficient training dataset and train machien learning interatomic potential (MLIP) models (based on MACE) to construct accurate reactive MLIPs. It enables to search stable configurations among enormous configration spaces and recognize corresponding 3D structures based on STM images, transition state (espeically for C-X bond and diffusion energy).
 
 
 ## Project Structure
