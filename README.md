@@ -1,7 +1,5 @@
 # Active_learning_MLIPs
 
-# AutoOSS_nanonis
-
 
 <!-- Badges -->
 [![Paper](https://img.shields.io/badge/Paper-arXiv-blue)](https://doi.org/10.1021/jacs.4c14757)
