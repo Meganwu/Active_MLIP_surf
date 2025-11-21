@@ -1,6 +1,53 @@
 # Active_learning_MLIPs
 
-# Install
+# AutoOSS_nanonis
+
+
+<!-- Badges -->
+[![Paper](https://img.shields.io/badge/Paper-arXiv-blue)](https://doi.org/10.1021/jacs.4c14757)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/USERNAME/REPO)](https://github.com/Meganwu/AutoOSS_nanonis)
+[![Documentation Status](https://readthedocs.org/projects/YOURDOC/badge/?version=latest)](https://YOURDOC.readthedocs.io/en/latest/?badge=latest)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxx.svg)](https://doi.org/10.5281/zenodo.13761822)
+[![GitHub Release](https://img.shields.io/github/v/release/USERNAME/REPO)](https://github.com/USERNAME/REPO/releases)
+
+---
+
+# 📑 Table of Contents
+- [About](#about)
+- [Features](#features)
+- [Installation](#installation)
+- [Quick Start](#quick-start)
+- [Documentation](#documentation)
+- [Releases](#releases)
+- [Citation](#citation)
+- [License](#license)
+
+
+
+
+# About AutoOSS
+<img src="./Image/total_architecture_zn_color_hel_font.png" alt="Workflow" style="width:90%;">
+
+We developed the framework of AutoOSS (Autonomous on-surface synthesis) to automate chemical reactions (break bond, move fragments, form bond and assebmle structures) in scanning tunneling microscopy based on Nanonis V5 (part function based on Createc is also avaialble on GitHub https://github.com/Meganwu/AutoOSS_nanonis). It comprises the remote connection, target dection module, interpetation module (image classifiers to identify reactants and products), decision-making module to optimize manipulation parameters for each function as well as miscellaneous analysis scritps. 
+
+
+## Project Structure
+
+.
+├── data
+│   ├── raw
+│   └── processed
+├── src
+│   ├── main.py
+│   ├── utils.py
+│   └── models
+│       └── model.py
+└── README.md
+
+# Installation
+
+
 
 
 # Step 1 randomly generate few initial dataset based on torsion angles and distance of molecules away from the surface
