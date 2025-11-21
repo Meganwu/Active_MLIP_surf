@@ -33,16 +33,7 @@ Given the structures of a molecule and a surface, the software Active_MLIP_surf 
 
 ## Project Structure
 
-.
-├── data
-│   ├── raw
-│   └── processed
-├── src
-│   ├── main.py
-│   ├── utils.py
-│   └── models
-│       └── model.py
-└── README.md
+<pre> ``` . ├── data │ ├── raw │ └── processed ├── src │ ├── main.py │ ├── utils.py │ └── models │ └── model.py └── README.md ``` </pre>
 
 # Installation
 
