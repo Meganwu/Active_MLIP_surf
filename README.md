@@ -34,7 +34,6 @@ Given the structures of a molecule and a surface, the software Active_MLIP_surf 
 ## Project Structure
 
 
-
 .
 ├── data
 │ ├── raw
