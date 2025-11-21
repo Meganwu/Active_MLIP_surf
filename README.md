@@ -7,7 +7,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/USERNAME/REPO)](https://github.com/Meganwu/AutoOSS_nanonis)
 [![Documentation Status](https://readthedocs.org/projects/YOURDOC/badge/?version=latest)](https://YOURDOC.readthedocs.io/en/latest/?badge=latest)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxx.svg)](https://doi.org/10.5281/zenodo.13761822)
-[![GitHub Release](https://img.shields.io/github/v/release/Meganwu/Active_MLIP_surf)](https://github.com/Meganwu/Active_MLIP_surf/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/Meganwu/Active_MLIP_surf)](https://github.com/Meganwu/Active_MLIP_surf/releases/tag/v1.0.0)
 
 
 ---
