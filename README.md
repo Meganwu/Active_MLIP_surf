@@ -36,16 +36,32 @@ Given the structures of a molecule and a surface, the software Active_MLIP_surf 
 ## Project Structure
 
 ```
+
 .
-├── data
-│ ├── raw
-│ └── processed
-├── src
-│ ├── main.py
-│ ├── utils.py
-│ └── models
-│ └── model.py
-└── README.md
+├── Images
+├── LICENSE
+├── README.md
+├── foundation_model
+├── run_train_mace.py
+├── separate_configs
+├── step1_boss_generate_iter0
+├── step2_select_data_from_boss_iter0
+├── step3_generate_aims_input_iter0
+├── step4_iter1
+├── step5_boss_generate_iter1
+├── step6_select_data_from_boss_iter1
+├── step7_md_and_opt
+├── step888_test_all_neb_md_opt
+├── step8_cal_final_sim
+├── step9_cal_neb_sim
+├── step10_filter_soap
+├── step11_filter_mace
+├── step12_filter_qbc
+├── step13_select_and_generate_aims
+├── step14_iter2
+├── step15_boss_generate_iter2
+└── utils
+
 ```
 
 
