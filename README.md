@@ -84,7 +84,7 @@ Given the structures of a molecule and a surface, the software Active_MLIP_surf 
 
 # Step3  Generate more configurations based on MLIPs
 ## a. BOSS  (random from all degrees of freedom, more on molecules close to surfaces, more on surfaces)
-## b. MACE optimization  (C-H at most less than 2.5, C-Br less than 2.0
+## b. MACE optimization  (C-H at most less than 2.5, C-Br less than 2.0) (using PCA and cluster techniques to get rid of high similar stable configurations)
 ## C. MACE molecular dynamics
 ## d. NEB for breaking C-Br bonds by using selected stable configuraitons (from b) as the initial configurations
 Plus
