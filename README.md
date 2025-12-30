@@ -12,6 +12,8 @@
 
 ---
 
+<img src="./Images/fig1_workflow.png" alt="Workflow of Active_MLIPs_surf" style="width:90%;">
+
 # 📑 Table of Contents
 - [About](#about)
 - [Features](#features)
