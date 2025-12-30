@@ -70,10 +70,9 @@ Given the structures of a molecule and a surface, the software Active_MLIP_surf 
 
 
 
-# Step 1 randomly generate few initial dataset based on torsion angles and distance of molecules away from the surface. (sample grids by BOSS) and generate a random rattle configurations for each one
+# Step 1 take a foundation model of MACE as the surrogate model of BOSS, randomly generate 50 initial dataset based on torsion angles and distance of molecules away from the surface. (sample grids by BOSS) and generate a random rattle configurations for each one
 (example: ZnBr2Me4DPP majorly two flexible torsion angle, 3 translational free degrees, 3 rorational free degrees, 8 in total)
 
-## first 30 initial configs (optimized by DFT), choose configs at the interval of 5, 10, 15, 20.
 
 # Step2  Train MLIPs (based on Mace here)
 ## from scratch
