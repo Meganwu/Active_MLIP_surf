@@ -1,0 +1,2040 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"cuda/11.3.1"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "cuda/11.3.1"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+Inputs received for optimization: [[   0.5   -14.1   -19.74 -180.   -180.   -180.   -180.   -180.  ]]
+Parsed inputs: 0.5 -180.0 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[2.5 0.  0.  0.  0.  0.  0.  0. ]]
+Parsed inputs: 2.5 0.0 0.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[  3.5   -7.05  -9.87 -90.    90.    90.   -90.    90.  ]]
+Parsed inputs: 3.5 -90.0 90.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[  1.5    7.05   9.87  90.   -90.   -90.    90.   -90.  ]]
+Parsed inputs: 1.5 90.0 -90.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   2.      -3.525    4.935  135.     -45.    -135.     -45.     135.   ]]
+Parsed inputs: 2.0 135.0 -45.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[  4.     10.575 -14.805 -45.    135.     45.    135.    -45.   ]]
+Parsed inputs: 4.0 -45.0 135.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.     -10.575   14.805   45.      45.     135.    -135.    -135.   ]]
+Parsed inputs: 3.0 45.0 45.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   1.       3.525   -4.935 -135.    -135.     -45.      45.      45.   ]]
+Parsed inputs: 1.0 -135.0 -135.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[  1.25    -5.2875  17.2725 -22.5     22.5    -67.5    -22.5    157.5   ]]
+Parsed inputs: 1.25 -22.5 22.5
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.25      8.8125   -2.4675  157.5    -157.5     112.5     157.5
+   -22.5   ]]
+Parsed inputs: 3.25 157.5 -157.5
+Using head Default out of ['Default']
+Inputs received for optimization: [[  2.26623183   0.245957     1.63097517  -6.12404818  18.41981216
+   38.1109673   37.38155307 -18.62239883]]
+Parsed inputs: 2.266231834592078 -6.124048182072513 18.41981216183978
+Using head Default out of ['Default']
+Inputs received for optimization: [[  2.90584897   0.23512898  -1.19592556  -0.40458535  52.76446845
+    0.24535705  10.84378017 -34.91817831]]
+Parsed inputs: 2.905848971168596 -0.40458534838194554 52.76446845208603
+Using head Default out of ['Default']
+Inputs received for optimization: [[   1.43519138   -0.87775911    8.82844575  161.16991758  -33.8929461
+  -157.33472696  -20.93465459  101.08300802]]
+Parsed inputs: 1.4351913827546054 161.16991757989229 -33.892946095787394
+Using head Default out of ['Default']
+Inputs received for optimization: [[   2.04664436   -3.46255854    8.2451553   164.86418046   16.69768178
+  -114.34705445  -46.46501759  103.5626367 ]]
+Parsed inputs: 2.046644362945331 164.86418046364378 16.69768178072581
+Using head Default out of ['Default']
+Inputs received for optimization: [[  2.26138312  -2.20184662   0.77387689  29.48977642  31.5744994
+  -26.31378311  62.64496857  -5.39641304]]
+Parsed inputs: 2.261383121712928 29.48977641694291 31.574499397505924
+Using head Default out of ['Default']
+Inputs received for optimization: [[   1.25317736   -5.33204611    8.26150873  126.88983743   18.31091357
+  -145.71022279   10.63463502  125.32711639]]
+Parsed inputs: 1.2531773593828632 126.88983742633373 18.31091356603186
+Using head Default out of ['Default']
+Inputs received for optimization: [[  2.79858156  -2.5398338    7.58426654  -9.95403344  22.666693
+  -25.67600097  20.19011307 -31.31072902]]
+Parsed inputs: 2.7985815619288847 -9.95403344227078 22.66669299967999
+Using head Default out of ['Default']
+Inputs received for optimization: [[  1.88545478   2.84994091   5.89589801  -6.73196652  66.92087306
+  -41.05390194  24.82519675   3.15155495]]
+Parsed inputs: 1.8854547797151449 -6.731966518207186 66.92087305983947
+Using head Default out of ['Default']
+Inputs received for optimization: [[  2.18426446  -4.83645762   2.71811718  42.52667893   9.02817634
+   23.95044364 -10.50190823 -55.80976905]]
+Parsed inputs: 2.1842644603304477 42.52667892823103 9.028176335549636
+Using head Default out of ['Default']
+Inputs received for optimization: [[  3.01756876  -6.0942621   -1.12924429 -18.35805895 -36.20141139
+    7.51561305  54.59545234 -46.50653527]]
+Parsed inputs: 3.0175687610556112 -18.35805894619998 -36.201411387270035
+Using head Default out of ['Default']
+Inputs received for optimization: [[ 3.78473969 -3.52439377  4.51011975 50.61623089 -7.56020471 49.39776952
+  41.80915617  4.78268878]]
+Parsed inputs: 3.784739685719791 50.61623088766898 -7.560204713179499
+Using head Default out of ['Default']
+Inputs received for optimization: [[  2.0787985   -8.74144335   6.96864383  -4.80438799 -24.8942433
+   30.44017786  30.50396311  47.69796569]]
+Parsed inputs: 2.078798503812522 -4.804387994561559 -24.894243298737607
+Using head Default out of ['Default']
+Inputs received for optimization: [[  3.15666021  -7.81162916  11.54344237 -30.83278117 -22.26299
+  101.82620028 -32.33186473 -51.44338586]]
+Parsed inputs: 3.1566602058975284 -30.83278117339378 -22.262989995009555
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.17747653   -5.71768091    9.38665179    0.52947463 -151.1957745
+     1.16010446  -47.30569816   -1.31609093]]
+Parsed inputs: 3.1774765311179474 0.5294746285901816 -151.19577450308458
+Using head Default out of ['Default']
+Inputs received for optimization: [[  2.70297499  -6.27962903  17.03980297  56.18001094   2.33620442
+   -0.63655591 -94.18211961  51.16355003]]
+Parsed inputs: 2.7029749884444834 56.180010937050675 2.336204421914551
+Using head Default out of ['Default']
+Inputs received for optimization: [[  3.89965498 -14.1         12.49391363  36.52799349 -22.55498692
+  -36.98361782 -50.35527893 -83.87729767]]
+Parsed inputs: 3.8996549750059333 36.52799349281757 -22.554986916589545
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.62908047  -11.08183533    4.69874323   35.41879229  -40.58590436
+  -139.90660713   -0.73009438   40.97109243]]
+Parsed inputs: 3.629080468235449 35.4187922910871 -40.58590436091456
+Using head Default out of ['Default']
+Inputs received for optimization: [[  2.98010462   5.10879371 -13.59063965  49.65411404 -40.79566682
+   75.23095183 139.69126358  26.32756701]]
+Parsed inputs: 2.9801046213509896 49.65411404137654 -40.7956668187618
+Using head Default out of ['Default']
+Inputs received for optimization: [[  2.83140289 -12.65170971  19.02472047 -99.47109541 -44.53265177
+  -91.49982043 -25.11194333  10.44482291]]
+Parsed inputs: 2.8314028877036983 -99.47109540876714 -44.5326517656754
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.38255114   -1.33937465   10.74358773   21.09276585  -36.50552764
+    10.63935569 -145.11764563 -107.36028518]]
+Parsed inputs: 4.382551136141624 21.092765853650853 -36.50552763626631
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -11.61617474   11.84495421   83.77994237 -142.99447004
+   116.07119494 -130.31792085  -53.20495724]]
+Parsed inputs: 4.5 83.77994237353674 -142.99447003632397
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.50503758   -6.55102767    0.30040612   10.96636266  -68.50778133
+  -121.01193407 -126.63090916  -79.45648856]]
+Parsed inputs: 3.505037575615258 10.966362661362107 -68.50778132542514
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.22849697   -5.21038228   17.87881884   27.51088951  114.95063243
+    28.35130131  -46.82478551 -105.29553359]]
+Parsed inputs: 4.228496967328498 27.510889508148754 114.95063242663878
+Using head Default out of ['Default']
+Inputs received for optimization: [[  2.58638222 -12.54091035  11.09866783 121.90079877 -79.18744331
+  -45.7036919   21.98521283  10.99514054]]
+Parsed inputs: 2.58638221535343 121.9007987735987 -79.18744331371501
+Using head Default out of ['Default']
+Inputs received for optimization: [[  3.04201532   3.46320074  12.45717869   0.19803314 -58.19332964
+   80.14900167 -94.81349382 -15.04322854]]
+Parsed inputs: 3.0420153199452145 0.19803313796217312 -58.19332963845085
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.61849695   -2.56743848    5.1197044   -18.78634207 -104.01102326
+   -64.17515068   65.05493102  112.23416953]]
+Parsed inputs: 3.618496950614894 -18.78634206779107 -104.01102326425622
+Using head Default out of ['Default']
+Inputs received for optimization: [[   2.0283562    -3.77787901    3.52596708   -9.7960222  -155.20545304
+   130.87676143   14.10895015  -13.09810703]]
+Parsed inputs: 2.0283561983637406 -9.796022201853104 -155.20545304026265
+Using head Default out of ['Default']
+Inputs received for optimization: [[ 3.69122133e+00 -1.78420849e-02  6.34920520e+00 -3.75790252e+01
+  -1.45905304e+02  6.47614455e+01 -2.29805133e+01 -1.43360400e+02]]
+Parsed inputs: 3.6912213286203635 -37.57902517529049 -145.9053043609849
+Using head Default out of ['Default']
+Inputs received for optimization: [[   2.34528416   -7.28700079   18.59616075  -14.37323411 -105.03220787
+    13.54748245 -117.81099947 -180.        ]]
+Parsed inputs: 2.345284155992687 -14.373234106083565 -105.03220787347699
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.68374147    4.96125909   -4.04368311   44.38690387 -156.32851833
+   131.31664163   46.75958646  -60.54248002]]
+Parsed inputs: 3.683741465309988 44.386903874099374 -156.32851832594227
+Using head Default out of ['Default']
+Inputs received for optimization: [[  1.97361902   1.70481846  -3.14008301 106.7780097  -88.06744654
+  180.          56.51571211  51.97213882]]
+Parsed inputs: 1.9736190189762715 106.7780097019431 -88.06744654427068
+Using head Default out of ['Default']
+Inputs received for optimization: [[  3.54716952  -2.18959239  -3.08737933   4.84823998 -93.17968092
+  107.23804639 -78.32969335 -68.68853349]]
+Parsed inputs: 3.547169519971954 4.848239978025869 -93.17968091544377
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.00023342   -3.36598093   10.59662818   -8.47661028 -113.72488397
+    57.97923156   57.13211999  -59.39935818]]
+Parsed inputs: 3.0002334211625374 -8.476610277751405 -113.72488397284496
+Using head Default out of ['Default']
+Inputs received for optimization: [[  1.38544906  -4.5132353    9.26995709 -26.67967948 -72.68567268
+   51.50618992 -56.78839949  -8.2882578 ]]
+Parsed inputs: 1.3854490555312216 -26.67967947592838 -72.68567267619561
+Using head Default out of ['Default']
+Inputs received for optimization: [[  3.59415536 -10.14283832   6.16241937   3.37386019 -17.93824842
+   -4.82250202 -30.66008041   3.97940523]]
+Parsed inputs: 3.594155359295845 3.3738601867376694 -17.93824842199549
+Using head Default out of ['Default']
+Inputs received for optimization: [[  4.5         -3.45355418  12.58998658 -30.19018787 -69.74511182
+  -11.97505358 -41.29771321 -75.06972908]]
+Parsed inputs: 4.5 -30.190187869272123 -69.74511181833036
+Using head Default out of ['Default']
+Inputs received for optimization: [[   2.48071469   -8.78407523   -0.13533544   21.02900617 -111.11961762
+   -47.79788479    1.13723566   15.99800503]]
+Parsed inputs: 2.4807146906237283 21.029006166808287 -111.11961761638253
+Using head Default out of ['Default']
+Inputs received for optimization: [[  2.95381842  -9.911025     5.09962549  -8.04121736  63.93225566
+   69.71158255  37.11520529 -24.46691686]]
+Parsed inputs: 2.9538184155249234 -8.04121736042416 63.93225565570569
+Using head Default out of ['Default']
+Inputs received for optimization: [[   2.60897806    1.95889071   -3.55329707  -30.74123596 -135.42552717
+    70.40825786   76.47048347  -29.82313642]]
+Parsed inputs: 2.6089780625398076 -30.74123595654368 -135.42552716588082
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.6427979     5.56717795   -4.56824      56.3523557  -133.86668876
+    52.0758976   150.97112801  -43.79688161]]
+Parsed inputs: 3.6427979045143575 56.352355701440786 -133.86668876004512
+Using head Default out of ['Default']
+Inputs received for optimization: [[  3.41151891  -2.25304393   6.501129    76.79101339  63.15466239
+  -70.33952423 -43.9041489   44.5513772 ]]
+Parsed inputs: 3.411518907194566 76.79101338522193 63.15466239148761
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.43507568  -13.73427501   15.12423989 -133.20711098 -137.73584431
+  -114.53453447  144.34097219  -36.98803946]]
+Parsed inputs: 3.435075677247475 -133.20711098069955 -137.73584431117493
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          10.9965058    -1.9513829    -3.02796825  -30.37311842
+   180.         -180.           86.18333891]]
+Parsed inputs: 0.5 -3.027968247152028 -30.373118418474064
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.00714269    8.35810042   19.74        -39.94846709 -160.46230576
+  -154.63924167  118.62886063  106.56191033]]
+Parsed inputs: 4.007142692757406 -39.94846709431497 -160.46230576092634
+Using head Default out of ['Default']
+Inputs received for optimization: [[   1.8948034     5.60998769   19.74       -180.         -172.02932321
+  -180.         -127.55776878   12.39919222]]
+Parsed inputs: 1.8948033954662584 -180.0 -172.02932320659974
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.0664147     2.46401494   16.32874466  -59.32119249   55.45875719
+   180.          180.         -180.        ]]
+Parsed inputs: 4.066414695878904 -59.321192485229 55.45875719415668
+Using head Default out of ['Default']
+Inputs received for optimization: [[   1.09024997    5.65406456   19.74         83.14420669 -171.82588833
+  -180.           23.48271106 -157.47245473]]
+Parsed inputs: 1.0902499650843445 83.1442066884051 -171.8258883290437
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.82201643    1.15042036   19.74       -180.         -139.73406114
+   173.31268561   -5.21632541  140.31401404]]
+Parsed inputs: 3.822016431959025 -180.0 -139.73406114156901
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -10.63940372    5.6852303  -180.           42.47294771
+    89.81785441   21.5163717  -180.        ]]
+Parsed inputs: 0.5 -180.0 42.47294771197046
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          -2.66058197   -8.34533438 -180.         -167.88148208
+  -180.          -23.90534421  117.6352392 ]]
+Parsed inputs: 4.5 -180.0 -167.88148207814422
+Using head Default out of ['Default']
+Inputs received for optimization: [[   1.22979933   14.1          -1.16719954   86.92995276   29.38253618
+   -51.07201658 -149.96587612 -180.        ]]
+Parsed inputs: 1.229799333034134 86.92995276441943 29.382536178042365
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          -6.72795511   19.74         55.19145401 -145.15140315
+   180.          180.          139.12256978]]
+Parsed inputs: 4.5 55.191454010062124 -145.15140314928792
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.90735744   -5.93448636  -14.0368075    80.64022383 -161.35740182
+  -180.          134.69464057  180.        ]]
+Parsed inputs: 3.907357438384021 80.64022382581456 -161.35740181993268
+Using head Default out of ['Default']
+Inputs received for optimization: [[   1.40140379  -12.03160026   15.72136938 -180.         -143.4683169
+  -180.          -90.73266107  177.52790643]]
+Parsed inputs: 1.4014037932131571 -180.0 -143.46831689574734
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.01710341   11.81347508    6.563143    -89.32368093 -144.12146423
+  -180.         -149.07778267  180.        ]]
+Parsed inputs: 4.017103409428927 -89.32368092709642 -144.12146422838467
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          -2.74779128 -122.59340349  -33.63000721
+   180.          -29.99968052   93.97639535]]
+Parsed inputs: 4.5 -122.59340348601063 -33.63000721113397
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.41412142   -6.04291474   19.74       -180.         -180.
+    12.20221163   24.86195534  -19.4840186 ]]
+Parsed inputs: 4.414121422660098 -180.0 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   1.93033349   -9.2821564     3.82352053 -180.         -180.
+   134.17973194 -155.8780282   124.8859454 ]]
+Parsed inputs: 1.9303334914371142 -180.0 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[  1.91290819 -14.1        -19.54877669 180.         -28.07114801
+   71.16599137 -75.81298798 -47.25860028]]
+Parsed inputs: 1.9129081876944996 180.0 -28.071148013055122
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5           6.36387222  -19.74       -169.53964921  -20.49018581
+   180.          135.26763577  105.31905681]]
+Parsed inputs: 0.5 -169.53964921252194 -20.49018580887308
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.7989691    11.94020217  -19.74       -122.43254669  -14.93100427
+   180.          180.         -180.        ]]
+Parsed inputs: 3.7989690982908075 -122.43254668879368 -14.931004271283127
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.42649009   -2.81844243  -19.74         55.10279678   70.12171677
+  -139.54392758  180.         -180.        ]]
+Parsed inputs: 3.426490088295192 55.1027967787584 70.12171677137133
+Using head Default out of ['Default']
+Inputs received for optimization: [[  4.5          7.88443916 -19.74       180.         -27.22885263
+  -83.80656476 -87.00275238  98.7426635 ]]
+Parsed inputs: 4.5 180.0 -27.22885263140498
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.38452855   14.1         -14.10866129 -180.           36.1117011
+     7.40125427  104.63673519   57.12631266]]
+Parsed inputs: 4.384528553247279 -180.0 36.11170109660252
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5           6.39843409   19.74         78.43413733  158.34549166
+    15.04190334  103.4937957  -180.        ]]
+Parsed inputs: 4.5 78.434137333921 158.34549165620595
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.31514044  -10.98372628  -19.74        180.          -27.71632729
+  -180.          119.68971987  180.        ]]
+Parsed inputs: 3.315140437152435 180.0 -27.716327290666953
+Using head Default out of ['Default']
+Inputs received for optimization: [[  0.7641689    3.33320844 -19.74       180.         -13.94476578
+  180.          15.39561978 180.        ]]
+Parsed inputs: 0.7641689003926206 180.0 -13.944765776410204
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5           6.0207107    19.74       -180.         -139.78103971
+   180.          180.         -125.92180326]]
+Parsed inputs: 4.5 -180.0 -139.78103971119833
+Using head Default out of ['Default']
+Inputs received for optimization: [[   1.63055298   14.1         -19.74       -180.          162.64624314
+    62.06851054  180.          180.        ]]
+Parsed inputs: 1.6305529837276131 -180.0 162.64624314055214
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          -7.21554937  -19.74        180.          -20.20317941
+     7.7988172   180.         -143.75694185]]
+Parsed inputs: 0.5 180.0 -20.20317941108245
+Using head Default out of ['Default']
+Inputs received for optimization: [[   1.14700962   14.1         -19.74        115.95971032  142.10903862
+  -170.80508204  180.          180.        ]]
+Parsed inputs: 1.147009621863953 115.95971031585714 142.1090386169077
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          -5.64805543  -19.74       -180.          167.07035259
+    12.15528435  180.           74.35856166]]
+Parsed inputs: 4.5 -180.0 167.070352591256
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.8600628    -0.29647979  -19.74       -180.          156.31249595
+   180.          180.         -152.31268082]]
+Parsed inputs: 0.8600627995064772 -180.0 156.31249594879824
+Using head Default out of ['Default']
+Inputs received for optimization: [[   1.3049422    -2.55819327    8.35747936 -180.          148.71825061
+  -180.          180.          109.37172666]]
+Parsed inputs: 1.3049421960696692 -180.0 148.71825060756944
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.56406955   -5.67551159  -15.20585896 -126.80915185  180.
+    15.54402346   38.83642062  151.49204502]]
+Parsed inputs: 0.5640695460061269 -126.8091518494308 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   1.97172121   13.97856249   19.74       -180.           35.54546144
+   180.           46.84223628  180.        ]]
+Parsed inputs: 1.9717212068293566 -180.0 35.54546144357579
+Using head Default out of ['Default']
+Inputs received for optimization: [[   2.1765947    14.1          19.74       -180.          -44.43855945
+   180.         -180.         -180.        ]]
+Parsed inputs: 2.1765946991182 -180.0 -44.438559447685385
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.78505865   13.40436545  -19.74       -180.          176.66599954
+  -180.          180.         -156.10479626]]
+Parsed inputs: 3.7850586485186803 -180.0 176.66599953963765
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74       -128.02962655  -21.58408533
+   180.           54.44583806 -121.59938812]]
+Parsed inputs: 0.5 -128.02962654866505 -21.58408532542252
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.58313246  -14.1          19.74       -180.         -119.2395028
+   180.           62.8398226   103.80215823]]
+Parsed inputs: 0.583132455957018 -180.0 -119.23950279977537
+Using head Default out of ['Default']
+Inputs received for optimization: [[   1.52911688  -14.1         -19.74        180.           19.25176227
+   180.         -152.22869213  180.        ]]
+Parsed inputs: 1.5291168755120126 180.0 19.251762270951154
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          12.64058367  -19.74       -180.          163.29561319
+  -180.           -8.51196973  109.07266686]]
+Parsed inputs: 4.5 -180.0 163.29561319376944
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.21129464   -1.81700141  -19.74       -180.           20.4577996
+   180.          -45.24927022  180.        ]]
+Parsed inputs: 3.211294639484784 -180.0 20.45779959803425
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          -6.36838173    8.87654067 -180.           37.78102065
+   180.          138.32461685  180.        ]]
+Parsed inputs: 4.5 -180.0 37.78102064708409
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.60966589   14.1          -8.92451197 -180.          148.86242559
+  -180.           21.75447408 -135.08781336]]
+Parsed inputs: 0.609665886491936 -180.0 148.86242559275442
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1           8.56991958 -180.          180.
+   180.         -170.99254493  180.        ]]
+Parsed inputs: 4.5 -180.0 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5           5.86844152  -19.74       -180.          180.
+   180.          -35.28888493 -171.07215437]]
+Parsed inputs: 4.5 -180.0 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74         27.53841544  161.64054626
+   180.         -180.            6.98520356]]
+Parsed inputs: 4.5 27.538415443299634 161.6405462580801
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          -1.75196838    3.19186443 -125.99129449  168.94031326
+  -177.28719262 -180.          -43.36761709]]
+Parsed inputs: 4.5 -125.99129448506977 168.94031325940028
+Using head Default out of ['Default']
+Inputs received for optimization: [[   1.18975989   14.1           8.4165832    82.37331147  180.
+   175.65054083 -180.          179.99770052]]
+Parsed inputs: 1.189759894484685 82.37331147369284 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1           7.12281919 -180.          147.40404722
+   180.         -166.06872252 -173.74174867]]
+Parsed inputs: 4.5 -180.0 147.40404721546997
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.77714854  -14.1         -12.92790945   74.18137536  146.55153354
+  -180.          180.          180.        ]]
+Parsed inputs: 3.777148536690203 74.18137535541106 146.55153354070686
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          10.70285782   12.36775453 -180.          180.
+   180.          113.97566109  128.80998845]]
+Parsed inputs: 4.5 -180.0 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.3457397    14.1          -4.16398027 -180.         -179.32263903
+   180.          180.           63.82936371]]
+Parsed inputs: 4.3457397014574735 -180.0 -179.32263902568792
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          -5.83613561  -19.74       -151.55364113  -21.82385337
+   180.         -138.74253194 -180.        ]]
+Parsed inputs: 0.5 -151.553641127082 -21.823853372321565
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          -0.87611434   19.74       -180.          151.36774471
+   180.          -32.63468897  180.        ]]
+Parsed inputs: 4.5 -180.0 151.36774471304145
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          -9.01584199  -19.74         55.31732185  155.93251535
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 55.317321846356165 155.93251535272736
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.66283382  -14.1           9.0679644  -180.          157.21194126
+   180.           23.67507528 -180.        ]]
+Parsed inputs: 3.662833820947943 -180.0 157.21194125637183
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74        -92.77186331  147.599827
+  -118.10855155 -128.59363158 -180.        ]]
+Parsed inputs: 0.5 -92.77186331499308 147.59982700407284
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          10.56270175  -19.74       -180.           34.0063449
+  -180.           83.7933644   180.        ]]
+Parsed inputs: 0.5 -180.0 34.00634489593686
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.30582403  -14.1         -19.74       -180.         -144.04583012
+   180.          -26.39205301   55.67222959]]
+Parsed inputs: 3.305824033742245 -180.0 -144.04583012177017
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.13728927   14.1          19.74       -180.          132.63549173
+   180.          180.          180.        ]]
+Parsed inputs: 3.1372892693585976 -180.0 132.63549172933745
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5           8.65644322   19.74       -180.          118.53772982
+   180.          180.         -180.        ]]
+Parsed inputs: 0.5 -180.0 118.5377298191247
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.32532816   14.1          17.83516774 -180.            1.91863983
+  -180.          180.          180.        ]]
+Parsed inputs: 3.3253281645335435 -180.0 1.9186398253290946
+Using head Default out of ['Default']
+Inputs received for optimization: [[   3.28682227   14.1          19.74        180.          -32.44784265
+   180.          -64.05686472 -180.        ]]
+Parsed inputs: 3.286822268672781 180.0 -32.44784264848034
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        180.          127.71066135
+   180.          -96.75486046 -180.        ]]
+Parsed inputs: 4.5 180.0 127.7106613462974
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        -62.07255504  180.
+   180.          -89.00860502 -180.        ]]
+Parsed inputs: 4.5 -62.07255504332008 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   1.69600642   14.1         -19.74       -180.          -87.71502805
+   180.          130.69680053 -180.        ]]
+Parsed inputs: 1.69600641506259 -180.0 -87.71502805202239
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5           4.45107261   19.74       -112.72463441 -177.88013991
+   180.          180.         -180.        ]]
+Parsed inputs: 0.5 -112.72463441375201 -177.88013991477644
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74        180.          127.96646468
+   180.         -180.         -180.        ]]
+Parsed inputs: 0.5 180.0 127.96646468314506
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        -37.81271053   16.43638429
+  -180.          180.          146.23835275]]
+Parsed inputs: 4.5 -37.81271052567377 16.436384285716723
+Using head Default out of ['Default']
+Inputs received for optimization: [[  4.5         -8.89986728  19.74       151.73572611 133.95334817
+  180.         -59.5440121  180.        ]]
+Parsed inputs: 4.5 151.73572611466136 133.9533481707962
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          -4.75710557 -149.30337258   71.23195555
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 -149.3033725750348 71.23195554779872
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        180.         -135.43939507
+  -179.73169946 -180.         -180.        ]]
+Parsed inputs: 4.5 180.0 -135.4393950743374
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74        -51.59195467 -180.
+   180.          180.         -180.        ]]
+Parsed inputs: 0.5 -51.59195467447566 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   1.12183153   14.1          17.56916357  180.          176.55155559
+  -180.          180.          176.95506368]]
+Parsed inputs: 1.1218315256963343 180.0 176.5515555880234
+Using head Default out of ['Default']
+Inputs received for optimization: [[  4.5         14.1        -19.74       148.84642132  65.35890117
+  180.         180.         180.        ]]
+Parsed inputs: 4.5 148.84642131691626 65.3589011711555
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        151.42188764  180.
+  -180.         -180.           73.63992728]]
+Parsed inputs: 4.5 151.42188763959228 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          17.63883702 -154.19099241  -58.85489169
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 -154.1909924065113 -58.854891687250166
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5   -14.1   -19.74  180.   -180.   -180.   -180.    180.  ]]
+Parsed inputs: 0.5 180.0 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5      -14.1       19.74     135.63095  180.      -180.
+  -180.      -180.     ]]
+Parsed inputs: 0.5 135.63095000173314 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        -14.57383498  180.
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -14.573834975908321 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        -33.78916896  180.
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -33.78916895770869 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74        -21.90956919  180.
+   180.          180.         -180.        ]]
+Parsed inputs: 0.5 -21.909569188787568 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74       -147.30106176  180.
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 -147.30106176296067 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         14.1        -19.74       180.        -120.2723921
+   180.        -180.        -180.       ]]
+Parsed inputs: 4.5 180.0 -120.2723920996031
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74        180.           85.52772707
+   180.          180.         -180.        ]]
+Parsed inputs: 0.5 180.0 85.5277270719053
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        143.09076962 -180.
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 143.09076961927065 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74          4.83106182 -180.
+  -180.          180.         -180.        ]]
+Parsed inputs: 0.5 4.831061823056535 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74        151.15670249 -111.84049362
+  -180.         -180.         -180.        ]]
+Parsed inputs: 0.5 151.1567024948777 -111.84049361840484
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74        -46.81780439   -2.39092639
+   180.          180.         -180.        ]]
+Parsed inputs: 0.5 -46.817804393127595 -2.3909263875179767
+Using head Default out of ['Default']
+Inputs received for optimization: [[  4.5         14.1         19.74        -2.86135955 180.
+   64.29115378 180.         180.        ]]
+Parsed inputs: 4.5 -2.8613595521543176 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        140.57417922   99.27249786
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 140.57417922254268 99.27249785873302
+Using head Default out of ['Default']
+Inputs received for optimization: [[  0.5        -14.1        -19.74       162.23818403 180.
+  180.         180.         180.        ]]
+Parsed inputs: 0.5 162.23818403085 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[  4.5         14.1         19.74       180.         -98.88140623
+  180.         180.         180.        ]]
+Parsed inputs: 4.5 180.0 -98.88140623052686
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        144.78631515   -6.77126261
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 144.78631514842704 -6.771262607753543
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74         11.13100748  180.
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 11.131007480633254 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5   -14.1    19.74  180.    180.    180.   -180.   -180.  ]]
+Parsed inputs: 4.5 180.0 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        -21.92449303 -180.
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 -21.924493032458976 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         14.1        -19.74        26.4714964  180.
+  -180.         180.        -180.       ]]
+Parsed inputs: 0.5 26.471496398819433 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74        -40.16934141  180.
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 -40.16934141397211 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74       -148.56262822 -180.
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -148.56262821939572 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5    14.1    19.74  180.   -180.   -180.    180.    180.  ]]
+Parsed inputs: 4.5 180.0 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74       -146.1375266     5.79660817
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 -146.13752660166804 5.796608173453038
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74       -150.96499673 -180.
+   -40.2050795   180.          180.        ]]
+Parsed inputs: 0.5 -150.96499673046816 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74       -155.05894367    1.42372785
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -155.0589436666964 1.4237278491089926
+Using head Default out of ['Default']
+Inputs received for optimization: [[  4.5        -14.1        -19.74       144.10995972  -9.87951851
+  180.         180.         180.        ]]
+Parsed inputs: 4.5 144.10995972417004 -9.879518509895826
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74        133.01568069 -180.
+  -180.          180.          180.        ]]
+Parsed inputs: 0.5 133.01568069238908 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        -25.72025948  138.79675549
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -25.720259476832528 138.7967554930529
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        -11.10364115  142.15188979
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 -11.103641147395914 142.1518897928807
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74       -155.60662615  180.
+  -180.         -180.         -180.        ]]
+Parsed inputs: 0.5 -155.6066261459574 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74       -148.89320619  127.42389994
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 -148.8932061932131 127.42389993581813
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74       -147.2338647  -121.37740344
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -147.2338646985257 -121.37740344437826
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5   -14.1    19.74  180.   -180.    180.    180.   -180.  ]]
+Parsed inputs: 4.5 180.0 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        -59.76595131   11.7877482
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -59.765951310666345 11.7877482027492
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74         28.59208086 -180.
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 28.592080859679243 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74       -126.92411174  -72.79150612
+  -180.          180.          180.        ]]
+Parsed inputs: 0.5 -126.92411174480598 -72.7915061162108
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        -42.91101573  180.
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 -42.91101572767375 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        146.03716975  180.
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 146.0371697458462 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[  0.5        -14.1         19.74       118.05519334  93.71341612
+  180.         180.         180.        ]]
+Parsed inputs: 0.5 118.05519334338297 93.71341612078267
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74        -14.51954854  139.16341993
+   180.          180.         -180.        ]]
+Parsed inputs: 0.5 -14.519548536976027 139.16341992604728
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          11.74555271  -19.74       -180.          133.37798029
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 -180.0 133.3779802933845
+Using head Default out of ['Default']
+Inputs received for optimization: [[   1.91597214   14.1          19.74       -180.          131.79103444
+   180.         -180.          180.        ]]
+Parsed inputs: 1.915972142833805 -180.0 131.79103443809694
+Using head Default out of ['Default']
+Inputs received for optimization: [[   2.06705552  -14.1          19.74       -180.           52.27223741
+  -180.          180.          180.        ]]
+Parsed inputs: 2.067055521300024 -180.0 52.27223740561848
+Using head Default out of ['Default']
+Inputs received for optimization: [[  1.99852106 -14.1        -19.74       180.          49.52393681
+  180.         180.         180.        ]]
+Parsed inputs: 1.9985210645660743 180.0 49.523936805610845
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        180.           13.75932801
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 180.0 13.759328008837544
+Using head Default out of ['Default']
+Inputs received for optimization: [[   2.29759914   14.1          19.74        180.          124.78653146
+  -180.         -180.         -180.        ]]
+Parsed inputs: 2.2975991409843157 180.0 124.78653146116491
+Using head Default out of ['Default']
+Inputs received for optimization: [[   2.1577362    14.1         -19.74        180.          -45.43544479
+  -180.         -180.         -180.        ]]
+Parsed inputs: 2.157736196779424 180.0 -45.435444792174245
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74        180.          123.03236036
+   180.         -180.          180.        ]]
+Parsed inputs: 0.5 180.0 123.03236035713756
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        180.           17.29411915
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 180.0 17.29411915445541
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        180.           30.76870851
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 180.0 30.76870851036379
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5           3.97548954   19.74        180.          -32.63543753
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 180.0 -32.635437529377484
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          -2.04548347  -19.74        180.          -52.81068848
+   180.         -180.         -180.        ]]
+Parsed inputs: 0.5 180.0 -52.81068848146049
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74        -82.55838459   12.81527535
+  -180.          180.          180.        ]]
+Parsed inputs: 0.5 -82.5583845886434 12.815275354969636
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74       -140.20616792  138.80522026
+   180.          180.          180.        ]]
+Parsed inputs: 4.5 -140.2061679213017 138.8052202646117
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        -33.23859496   43.89403429
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 -33.23859495731228 43.89403429153724
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74         38.60325938  180.
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 38.60325938391327 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        180.          139.16540377
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 180.0 139.16540377355935
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         14.1         19.74       127.9202483 -180.
+   180.         180.        -180.       ]]
+Parsed inputs: 4.5 127.92024830059678 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        121.81820817  -17.37004028
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 121.81820816972959 -17.37004027949256
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        117.11787627  180.
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 117.11787627364781 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74       -135.2291129    35.65856962
+   180.          180.         -180.        ]]
+Parsed inputs: 0.5 -135.22911290261516 35.65856962399612
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        -70.47805006  -44.19898158
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -70.47805006149765 -44.198981581368
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74        154.10596267  147.6530121
+  -180.          180.         -180.        ]]
+Parsed inputs: 0.5 154.10596266626845 147.65301210311668
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74       -180.          -23.22583581
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -180.0 -23.225835807331674
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74       -152.64544672 -149.3291743
+   180.         -180.         -180.        ]]
+Parsed inputs: 0.5 -152.64544672469532 -149.32917430155746
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74       -159.09639457  -22.85086156
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 -159.09639456802464 -22.850861557666082
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74        159.08571452 -180.
+   180.         -180.         -180.        ]]
+Parsed inputs: 0.5 159.08571451754517 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74       -116.43991151    7.19304381
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 -116.43991151045437 7.193043806054659
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74         39.52456888 -134.16430151
+   180.         -180.          180.        ]]
+Parsed inputs: 0.5 39.52456887808222 -134.1643015099887
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74         54.62667377  113.58545199
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 54.62667377081324 113.58545199374096
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74       -151.62647648  131.82173651
+   180.         -180.          180.        ]]
+Parsed inputs: 0.5 -151.62647648405488 131.82173651050812
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        154.30056356  -65.23776581
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 154.30056355801648 -65.23776581052839
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74        -40.83714226   47.76456335
+  -180.         -180.         -180.        ]]
+Parsed inputs: 0.5 -40.83714225516113 47.7645633541516
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74       -151.71750166 -153.7899624
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 -151.71750166081367 -153.78996240373985
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74         21.16750482  -42.1618308
+  -180.          180.         -180.        ]]
+Parsed inputs: 0.5 21.167504822053246 -42.16183080023518
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        136.79975245 -133.43543402
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 136.79975245329638 -133.43543401602616
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        129.70911095 -160.26660239
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 129.7091109535267 -160.26660239255398
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74          7.55913742  148.60635565
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 7.559137420243262 148.60635565122433
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74        -71.53717124 -101.09572937
+   180.          180.         -180.        ]]
+Parsed inputs: 0.5 -71.53717124127695 -101.09572936787683
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74         18.22428343 -143.45241349
+  -180.          180.          180.        ]]
+Parsed inputs: 0.5 18.224283429515054 -143.45241348550942
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        -38.74228882   95.04595575
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 -38.742288820757494 95.04595574839887
+Using head Default out of ['Default']
+Inputs received for optimization: [[  0.5        -14.1        -19.74        94.45158133 -22.25953111
+  180.         180.         180.        ]]
+Parsed inputs: 0.5 94.45158133341037 -22.259531109205856
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        124.17384106  180.
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 124.17384106268466 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74       -125.38878859 -180.
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 -125.38878858630851 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74         21.96391234   75.46964792
+   180.         -180.          180.        ]]
+Parsed inputs: 0.5 21.96391234316548 75.46964791878835
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74       -133.76295808  -98.88732791
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 -133.7629580792855 -98.8873279095744
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        143.59247527   24.39268557
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 143.59247526502793 24.392685572541527
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74        -31.09576172 -180.
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 -31.09576172055856 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74        180.         -144.12215597
+   180.         -180.          180.        ]]
+Parsed inputs: 0.5 180.0 -144.12215596612202
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        145.11620023   35.22841403
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 145.11620023142217 35.228414031744165
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         14.1         19.74       168.6136321  160.687377
+   180.        -180.         180.       ]]
+Parsed inputs: 4.5 168.6136321007241 160.6873769957331
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        -14.37378872  -26.5244914
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 -14.37378872189261 -26.5244913994185
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74        148.87539338   31.04839371
+  -180.          180.          180.        ]]
+Parsed inputs: 0.5 148.87539338383223 31.0483937094739
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74       -180.           91.96576856
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 -180.0 91.9657685649016
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74       -140.18402062   31.63919357
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 -140.18402061830645 31.639193567900577
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74        145.47791195  -56.96012471
+   180.          180.         -180.        ]]
+Parsed inputs: 0.5 145.47791195010095 -56.960124711138086
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74         33.45384275  150.23722316
+   180.          180.         -180.        ]]
+Parsed inputs: 0.5 33.453842746398344 150.2372231598372
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        121.01764457  146.49586345
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 121.01764457128722 146.49586345454935
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        -25.88464934  152.46784578
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 -25.884649340642692 152.4678457792852
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74         40.32480909  -19.15749049
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 40.32480908782651 -19.157490487679592
+Using head Default out of ['Default']
+Inputs received for optimization: [[  4.5         14.1         19.74       -98.46949726 180.
+  180.         180.         180.        ]]
+Parsed inputs: 4.5 -98.46949725608194 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74        -41.49975958  143.12667057
+   180.         -180.          180.        ]]
+Parsed inputs: 0.5 -41.499759580995416 143.126670565529
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74       -148.27701934  180.
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 -148.27701933842116 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74         34.57901351 -141.24141935
+  -180.          180.         -180.        ]]
+Parsed inputs: 0.5 34.57901350706428 -141.24141934608
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74         16.86453478 -180.
+   180.          180.          180.        ]]
+Parsed inputs: 4.5 16.864534781275612 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74       -154.42486411   33.98215583
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 -154.4248641055545 33.9821558311788
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74        -53.79682648  -31.43791461
+  -180.          180.          180.        ]]
+Parsed inputs: 0.5 -53.79682647827083 -31.437914613524327
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74        141.85582611   -6.38401974
+   180.         -180.         -180.        ]]
+Parsed inputs: 0.5 141.85582611307981 -6.384019738636896
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        180.           43.51747046
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 180.0 43.51747045599004
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74         -5.67574651  114.43334466
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 -5.675746506134096 114.43334465693903
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        126.98167011   -3.44824277
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 126.98167010598567 -3.4482427668985602
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74         19.98926929   24.25212225
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 19.989269293162554 24.252122253198987
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74        133.50028651 -149.6955113
+   180.         -180.         -180.        ]]
+Parsed inputs: 0.5 133.50028651329532 -149.69551130472925
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        180.         -161.95293554
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 180.0 -161.95293554117504
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        180.           88.80919412
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 180.0 88.80919411674876
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74          3.86019121 -180.
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 3.8601912104075735 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74        145.70577063   49.54273779
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 145.70577062879178 49.54273778622805
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74       -180.          -43.36867605
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 -180.0 -43.36867604513819
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        -85.15238459   32.86336505
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -85.15238459090241 32.86336505454712
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74       -156.06494099  -29.30113133
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 -156.0649409872355 -29.301131333598605
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        180.           16.83472547
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 180.0 16.834725465638186
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74         11.614802    132.17604603
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 11.61480200329625 132.176046028217
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74         92.77614211  114.39263082
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 92.77614211113774 114.39263081809577
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        -39.10670151   28.82082599
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 -39.106701511514096 28.820825991398035
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74       -147.67174989  152.03091772
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 -147.67174989335777 152.03091771853278
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        -58.36646476 -180.
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 -58.36646476298736 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5        -14.1         19.74      -141.1009741   77.4461454
+  -180.         180.        -180.       ]]
+Parsed inputs: 0.5 -141.10097410294438 77.44614539719605
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        -26.02699294    1.09342143
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 -26.026992944827843 1.0934214277046037
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74         38.30930875 -137.2618437
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 38.30930875224382 -137.26184369971065
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74       -144.31168054  152.93458219
+   180.          180.         -180.        ]]
+Parsed inputs: 0.5 -144.31168053672508 152.9345821948659
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74       -145.62068486   29.42585968
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 -145.62068486436743 29.42585968079043
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        -14.98236166 -142.10179611
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 -14.98236166382513 -142.10179610823442
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        120.33694995   48.59369482
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 120.33694994668215 48.59369481548158
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74         26.87244052    5.78634723
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 26.87244052271918 5.7863472311595565
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        180.          164.65554233
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 180.0 164.6555423335025
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74       -132.59485855 -147.37822217
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -132.59485855106465 -147.3782221651751
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74         41.28107588   28.81137571
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 41.28107588301986 28.811375712144876
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74        180.         -141.45482662
+  -180.          180.         -180.        ]]
+Parsed inputs: 0.5 180.0 -141.4548266220399
+Using head Default out of ['Default']
+Inputs received for optimization: [[  4.5        -14.1         19.74       135.74161872 160.73888663
+  180.         180.         180.        ]]
+Parsed inputs: 4.5 135.74161872145731 160.73888663204485
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74         41.4319891   -64.37088403
+   180.         -180.          180.        ]]
+Parsed inputs: 0.5 41.43198910320214 -64.37088403042718
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74       -180.          -22.52095988
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 -180.0 -22.520959878230606
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74         50.50979436 -180.
+   180.          180.          180.        ]]
+Parsed inputs: 4.5 50.509794359622255 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        151.0485777  -139.24437588
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 151.04857770233644 -139.24437587949032
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        -65.60698439  -15.73393492
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 -65.60698438771227 -15.733934923197802
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        180.         -147.44322496
+   180.          180.          180.        ]]
+Parsed inputs: 4.5 180.0 -147.44322496319683
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74         70.43252081  -34.21511527
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 70.43252080991212 -34.21511527172821
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74         37.27968629  143.30941364
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 37.27968629476223 143.30941364444035
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74         48.65343079  180.
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 48.65343079462592 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        -38.51133472  157.22973932
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 -38.51133472196199 157.2297393201207
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74         25.53638254 -133.97340305
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 25.536382539972145 -133.97340305385475
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        -18.38586798 -137.10605352
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 -18.385867977784542 -137.10605351567625
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74        131.03611402  162.05318362
+   180.         -180.          180.        ]]
+Parsed inputs: 0.5 131.03611401914165 162.05318361869462
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74        180.          161.51619145
+   180.         -180.         -180.        ]]
+Parsed inputs: 0.5 180.0 161.5161914500386
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74         34.67407255 -180.
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 34.67407254934799 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74         10.91681954  -43.79838446
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 10.91681954477438 -43.79838445960537
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74         28.43960329   57.68175592
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 28.439603294529533 57.681755924281084
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74       -148.6830859     8.01916544
+   180.         -180.          180.        ]]
+Parsed inputs: 0.5 -148.68308590175252 8.019165442016963
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74       -129.43034893   46.46359911
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 -129.4303489294436 46.46359910945324
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        -55.8737502   154.40203305
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 -55.87375019695464 154.40203305437888
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74         10.77106627  146.11878112
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 10.771066265379607 146.11878112269795
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74       -146.73897173  121.51274726
+  -180.          180.          180.        ]]
+Parsed inputs: 0.5 -146.73897173043932 121.51274725540121
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        142.04167754  -21.1254262
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 142.0416775373893 -21.125426204609386
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74       -115.99779228 -113.74272387
+   180.         -180.         -180.        ]]
+Parsed inputs: 0.5 -115.99779228492407 -113.7427238706453
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74        -25.75010621   -2.82215886
+  -180.         -180.         -180.        ]]
+Parsed inputs: 0.5 -25.75010621265828 -2.822158855864703
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74       -142.69933626  -48.08407003
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 -142.6993362610578 -48.08407003443766
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        180.           -1.78393843
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 180.0 -1.783938427964493
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74         13.74010343   23.5949807
+  -180.         -180.         -180.        ]]
+Parsed inputs: 0.5 13.74010343033043 23.594980699337604
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        122.4851217   -45.61147907
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 122.48512169800551 -45.61147906744747
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74        -34.98018196 -155.83415635
+  -180.         -180.         -180.        ]]
+Parsed inputs: 0.5 -34.98018195971547 -155.83415634501802
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74       -157.82478874  -43.380833
+  -180.          180.         -180.        ]]
+Parsed inputs: 0.5 -157.82478873941767 -43.380833001563005
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        -30.20982963 -180.
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 -30.209829628487324 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74        -48.58063428  156.63516839
+  -180.          180.         -180.        ]]
+Parsed inputs: 0.5 -48.58063428214479 156.635168386474
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74        180.          141.66416953
+   180.          180.         -180.        ]]
+Parsed inputs: 0.5 180.0 141.66416952901298
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74        180.           33.26300749
+  -180.          180.         -180.        ]]
+Parsed inputs: 0.5 180.0 33.26300748933359
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        105.03235901 -180.
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 105.03235900807553 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[  0.5        -14.1         19.74       -51.54716791  39.4076734
+  180.         180.         180.        ]]
+Parsed inputs: 0.5 -51.54716791241008 39.40767340175638
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        138.21429678  144.37843017
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 138.2142967777902 144.37843017283268
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74         52.60535656   31.12351438
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 52.605356555611195 31.123514378027156
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74          6.22864729 -180.
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 6.22864729474065 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74         -1.88528321 -133.90622128
+   180.         -180.         -180.        ]]
+Parsed inputs: 0.5 -1.8852832095901246 -133.9062212824482
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        -82.41296143 -180.
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 -82.41296143464204 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74       -155.97903507   54.46830263
+  -180.          180.          180.        ]]
+Parsed inputs: 0.5 -155.97903506959256 54.46830262648963
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5        -14.1         19.74       -15.0281177 -131.9042276
+  -180.        -180.         180.       ]]
+Parsed inputs: 0.5 -15.028117702046936 -131.90422760053255
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        131.29780976 -155.18625612
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 131.29780976324423 -155.1862561180373
+Using head Default out of ['Default']
+Inputs received for optimization: [[  0.5        -14.1        -19.74        24.56200902 -10.58513074
+  180.         180.         180.        ]]
+Parsed inputs: 0.5 24.562009019366663 -10.585130736726017
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74       -129.94162673   25.67685072
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 -129.94162673069468 25.676850716472387
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74       -149.20498246 -135.51918488
+   180.          180.          180.        ]]
+Parsed inputs: 4.5 -149.2049824585271 -135.51918487539456
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74       -133.14784148  -26.16305168
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 -133.1478414752386 -26.163051680067873
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74       -180.          -48.48773905
+   180.         -180.          180.        ]]
+Parsed inputs: 0.5 -180.0 -48.4877390457886
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        124.49396742   45.4000791
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 124.49396742332523 45.400079098127414
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74        132.63572244  -14.71689492
+  -180.          180.          180.        ]]
+Parsed inputs: 0.5 132.6357224356729 -14.716894922676397
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        142.02705388 -105.47578879
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 142.02705387924263 -105.47578878798372
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        164.73390752 -133.22170984
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 164.73390751989 -133.22170983624423
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74        -12.53395542  152.42519274
+  -180.         -180.         -180.        ]]
+Parsed inputs: 0.5 -12.53395542040054 152.42519274264964
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74          4.22323697   26.2674465
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 4.223236973204351 26.26744649852843
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74         53.84101073  180.
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 53.841010732558125 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74         47.10825424  165.54860706
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 47.10825423803966 165.5486070551188
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        -34.66956867 -180.
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -34.669568666454275 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74         20.13847662 -170.41978841
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 20.138476617674115 -170.41978841085808
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74         43.30052612 -107.63843714
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 43.30052611836579 -107.63843714449644
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        142.32941983    8.47233899
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 142.32941982731865 8.472338993590446
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        -20.65251994   46.98338502
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 -20.652519939953162 46.98338502325977
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74       -127.29003334  133.88663597
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -127.29003334357022 133.88663596519143
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        -20.62693712   -1.20535469
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 -20.626937120118203 -1.2053546943059061
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74       -180.         -129.97144313
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -180.0 -129.9714431259354
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74       -132.2117717  -156.10354595
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 -132.2117716968087 -156.10354594599036
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        122.40737594    9.46845576
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 122.40737593979986 9.46845576193882
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        -49.2568086   -17.26932966
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -49.25680859915625 -17.26932966025875
+Using head Default out of ['Default']
+Inputs received for optimization: [[  4.5         14.1         19.74       180.         -55.89366969
+  180.         180.         180.        ]]
+Parsed inputs: 4.5 180.0 -55.89366968599293
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74       -180.         -138.99442957
+  -180.          180.          180.        ]]
+Parsed inputs: 0.5 -180.0 -138.99442957439334
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74         -6.9403122    42.55951216
+   180.         -180.          180.        ]]
+Parsed inputs: 0.5 -6.940312196918656 42.559512159088115
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74       -180.           -4.00035495
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -180.0 -4.000354954142649
+Using head Default out of ['Default']
+Inputs received for optimization: [[  0.5        -14.1         19.74        50.82527609 -27.45135985
+  180.         180.         180.        ]]
+Parsed inputs: 0.5 50.82527608708362 -27.451359851297884
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        156.12947428 -180.
+   180.          180.          180.        ]]
+Parsed inputs: 4.5 156.12947428225306 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74        146.23494911 -146.47160006
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 146.2349491074076 -146.47160005704666
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74       -132.31199248  159.95174187
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 -132.31199248114862 159.95174187435327
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74        139.80963884  128.25292917
+  -180.         -180.         -180.        ]]
+Parsed inputs: 0.5 139.8096388420968 128.2529291661716
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74       -132.85733329   48.20027271
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -132.8573332909419 48.20027271023142
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        -46.04583267 -118.19444621
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -46.04583266971748 -118.1944462125006
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        147.72710167  -41.21064684
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 147.72710167146417 -41.210646842803776
+Using head Default out of ['Default']
+Inputs received for optimization: [[  0.5         14.1        -19.74        49.07497123  46.43092055
+  180.         180.         180.        ]]
+Parsed inputs: 0.5 49.07497123380467 46.43092054897637
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74       -140.60817767 -180.
+   180.          180.          180.        ]]
+Parsed inputs: 4.5 -140.60817766589875 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74        -46.6995818   -37.66127286
+   180.         -180.         -180.        ]]
+Parsed inputs: 0.5 -46.69958179769597 -37.66127285910512
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74         54.89561074 -180.
+   180.         -180.         -180.        ]]
+Parsed inputs: 0.5 54.89561074158922 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74        -23.34087489  116.41759349
+  -180.         -180.         -180.        ]]
+Parsed inputs: 0.5 -23.340874890152914 116.41759348919001
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        -55.32393294   39.56097711
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 -55.323932935947745 39.560977107770135
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        -12.26318976 -180.
+   180.          180.          180.        ]]
+Parsed inputs: 4.5 -12.263189759058738 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74        -62.66090771  180.
+   180.         -180.          180.        ]]
+Parsed inputs: 0.5 -62.660907707784766 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[  4.5        -14.1         19.74         5.03862459  37.85832894
+  180.         180.         180.        ]]
+Parsed inputs: 4.5 5.038624593794508 37.858328940458506
+Using head Default out of ['Default']
+Inputs received for optimization: [[  4.5         14.1         19.74       165.32537203  39.68573486
+  180.         180.         180.        ]]
+Parsed inputs: 4.5 165.32537203039323 39.68573485929094
+Using head Default out of ['Default']
+Inputs received for optimization: [[  4.5         14.1         19.74       163.90819118  -6.21632719
+  180.         180.         180.        ]]
+Parsed inputs: 4.5 163.9081911817215 -6.216327185067886
+Using head Default out of ['Default']
+Inputs received for optimization: [[  4.5        -14.1         19.74        17.34120202 142.2535764
+  180.         180.         180.        ]]
+Parsed inputs: 4.5 17.34120202410247 142.2535764041547
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74         26.1790346    50.31912529
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 26.179034598279465 50.319125290659755
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74         -4.30769035  166.69903114
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -4.307690352581271 166.69903113748774
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74         -4.09539961  -49.26335041
+  -180.          180.          180.        ]]
+Parsed inputs: 0.5 -4.095399605716547 -49.26335041385255
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74        -46.98738231   -6.4049818
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 -46.987382309288904 -6.404981797544891
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        127.16290058  159.38977648
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 127.16290058052932 159.38977648093112
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74        -22.54983385   48.30832038
+   180.          180.         -180.        ]]
+Parsed inputs: 0.5 -22.549833849047964 48.308320378918566
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74       -180.            8.06743167
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 -180.0 8.067431665723728
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         14.1         19.74      -136.6375838 -180.
+  -180.        -180.        -180.       ]]
+Parsed inputs: 4.5 -136.6375838028083 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        129.07135778  -54.21527679
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 129.07135777818615 -54.215276790397816
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74          1.85489128 -138.66172074
+   180.          180.          180.        ]]
+Parsed inputs: 4.5 1.8548912759261826 -138.66172073984688
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        -50.87095228 -138.00910878
+   180.          180.          180.        ]]
+Parsed inputs: 4.5 -50.87095227828433 -138.00910877910263
+Using head Default out of ['Default']
+Inputs received for optimization: [[  4.5         14.1        -19.74       -40.95868011 -37.61145061
+  180.         180.         180.        ]]
+Parsed inputs: 4.5 -40.958680108137855 -37.61145061306161
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        147.89297219 -153.21616269
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 147.89297219165476 -153.21616269243341
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74       -153.56625198 -116.84858933
+  -180.          180.          180.        ]]
+Parsed inputs: 0.5 -153.5662519828104 -116.84858932731098
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74         37.69956343  144.69275888
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 37.69956343042865 144.69275888150585
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74        -53.2836819  -147.20291156
+   180.          180.          180.        ]]
+Parsed inputs: 0.5 -53.283681895954736 -147.20291155517012
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74       -128.46314911  -39.00062395
+  -180.         -180.         -180.        ]]
+Parsed inputs: 0.5 -128.46314910851655 -39.000623950238015
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74        166.11640888   48.57622065
+   180.         -180.         -180.        ]]
+Parsed inputs: 0.5 166.1164088781859 48.57622065107846
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74       -154.16137637  135.06720196
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -154.1613763669238 135.0672019647001
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74         23.89947657  180.
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 23.89947656546063 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74       -180.         -161.97528158
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -180.0 -161.9752815834868
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        164.25679708    3.88178115
+  -180.           69.12737279 -178.20592442]]
+Parsed inputs: 4.5 164.256797081614 3.881781152758488
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5    14.1   -19.74  180.    180.   -180.   -180.    180.  ]]
+Parsed inputs: 4.5 180.0 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74       -166.22804541    9.9887587
+   180.          180.          180.        ]]
+Parsed inputs: 4.5 -166.22804540593953 9.988758701062292
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74         -8.28435472  -42.72163963
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 -8.284354717136976 -42.721639626299385
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74          2.2841522   -43.92528133
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 2.2841521968217444 -43.92528132967498
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        -43.59937941   43.44377134
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -43.59937941304024 43.4437713371481
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74         -5.66938662    1.04539574
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 -5.669386620241336 1.0453957369647935
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        157.82592685  124.84596574
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 157.82592685044852 124.8459657427926
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74       -135.74956254    5.25340069
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -135.74956254485494 5.2534006865932055
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74        180.          154.97885428
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 180.0 154.97885428028383
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74       -167.02188132  -46.96952794
+   180.          180.          180.        ]]
+Parsed inputs: 4.5 -167.02188131577012 -46.96952794092686
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        135.19532933  136.06850201
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 135.1953293313624 136.06850200662123
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74        180.          -44.90200814
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 180.0 -44.902008140992976
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74         41.11031577  164.65649848
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 41.110315771295305 164.65649847695724
+Using head Default out of ['Default']
+Inputs received for optimization: [[  4.5        -14.1        -19.74       124.07159698  26.07001788
+  180.         180.         180.        ]]
+Parsed inputs: 4.5 124.07159697982516 26.070017882822807
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        -88.02868294  -77.8756454
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 -88.02868294259893 -77.8756453993994
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         14.1        -19.74       180.         145.8285476
+  -180.        -180.        -180.       ]]
+Parsed inputs: 4.5 180.0 145.8285475995347
+Using head Default out of ['Default']
+Inputs received for optimization: [[  4.5         14.1         19.74        34.02409267 -52.08027827
+  180.         180.         180.        ]]
+Parsed inputs: 4.5 34.02409266654714 -52.08027827487645
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74         55.89676911  156.31095629
+  -180.          180.         -180.        ]]
+Parsed inputs: 0.5 55.89676911129953 156.31095629171526
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74       -163.71835234  146.08645445
+   180.          180.          180.        ]]
+Parsed inputs: 4.5 -163.7183523433655 146.0864544521704
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74        -91.45279783  -20.2011269
+   180.         -180.         -180.        ]]
+Parsed inputs: 0.5 -91.45279782976435 -20.20112690408215
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        -47.45627674  -40.74122231
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 -47.456276736596685 -40.7412223072538
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74         49.77596951 -180.
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 49.77596951476903 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74       -139.56231412 -163.34675384
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 -139.56231411517166 -163.34675383861767
+Using head Default out of ['Default']
+Inputs received for optimization: [[  4.5         14.1         19.74       -48.17002307  -0.90241886
+  180.         180.         180.        ]]
+Parsed inputs: 4.5 -48.170023073529684 -0.9024188596557754
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74         57.31612466 -148.43420778
+  -180.          180.          180.        ]]
+Parsed inputs: 0.5 57.31612466371532 -148.43420778016056
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        158.69705036 -180.
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 158.69705036301863 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5        -14.1        -19.74       -31.0081947 -163.0833882
+   180.         180.         180.       ]]
+Parsed inputs: 4.5 -31.008194698432735 -163.0833882024988
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74        162.26906564 -130.75436475
+   180.          180.         -180.        ]]
+Parsed inputs: 0.5 162.26906563905635 -130.75436474599576
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74         39.33822911    5.59221649
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 39.33822910982198 5.592216491386486
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74       -137.83048739  147.88370797
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -137.83048738725273 147.88370797227648
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        149.45026403  153.30719199
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 149.45026402533324 153.30719199131747
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74       -145.14430838  -41.87098453
+   180.          180.          180.        ]]
+Parsed inputs: 0.5 -145.14430838104138 -41.87098452895028
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        180.         -145.39579936
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 180.0 -145.3957993574835
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74       -123.52671327   52.77100808
+   180.         -180.          180.        ]]
+Parsed inputs: 0.5 -123.52671327232284 52.77100807952974
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74        126.74025887   54.28843663
+   180.         -180.         -180.        ]]
+Parsed inputs: 0.5 126.7402588662661 54.28843662901516
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74       -158.44875861 -180.
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 -158.44875861396918 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74       -180.            2.00166588
+   180.          180.         -180.        ]]
+Parsed inputs: 0.5 -180.0 2.001665880458335
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74         42.81264284   23.02197351
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 42.812642844346534 23.02197351307275
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74        116.11495315 -141.38723891
+   180.          180.          180.        ]]
+Parsed inputs: 0.5 116.11495315190811 -141.3872389130703
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74       -142.35252146   43.33646293
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 -142.3525214598795 43.33646293206987
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74         13.40255424 -132.15924602
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 13.40255424055488 -132.15924602141064
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5   -14.1   -19.74 -180.    180.   -180.   -180.    180.  ]]
+Parsed inputs: 0.5 -180.0 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74         13.68953912   -2.31201378
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 13.689539119585689 -2.3120137762044166
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74        -44.06797499 -117.46534942
+   180.         -180.          180.        ]]
+Parsed inputs: 0.5 -44.0679749939438 -117.46534941836009
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74         23.12328955  127.54782384
+   180.          180.         -180.        ]]
+Parsed inputs: 0.5 23.123289546462953 127.54782384225354
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74         44.30099302  139.51172069
+   180.         -180.          180.        ]]
+Parsed inputs: 0.5 44.300993021423295 139.5117206857292
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74       -180.           24.51759075
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 -180.0 24.51759075178118
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74        159.83128097   -7.12773267
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 159.83128097353597 -7.127732673963632
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        -38.52135031  149.10228246
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -38.52135031165743 149.10228246437455
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        -55.50467491 -163.25828485
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 -55.50467490639381 -163.25828485307363
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74       -149.50615226 -133.06098882
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 -149.50615226401618 -133.06098882145648
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74       -180.          -24.11861134
+   180.          180.          180.        ]]
+Parsed inputs: 4.5 -180.0 -24.118611344713493
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        180.           -2.07964944
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 180.0 -2.07964944175841
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74       -138.80892028  111.73869635
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -138.80892027732955 111.73869634996365
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74        180.         -114.35333966
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 180.0 -114.35333965972445
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74          4.04967008  164.84996543
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 4.049670080241114 164.84996543062766
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74        -30.51782568  -22.88632413
+  -180.          180.          180.        ]]
+Parsed inputs: 0.5 -30.5178256801704 -22.8863241331122
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        -11.11578303 -147.26349065
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 -11.11578302571732 -147.2634906515297
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74         -2.11072427  151.79442539
+  -180.          180.          180.        ]]
+Parsed inputs: 0.5 -2.1107242660304566 151.79442538504114
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74         42.91214481  -28.48654864
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 42.912144814463474 -28.48654864487813
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74         -0.98645519 -167.65900237
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 -0.986455192038165 -167.6590023739347
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        126.53831877  -23.94644756
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 126.53831876697517 -23.94644755741971
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74       -127.3725742   148.43650725
+   180.         -180.          180.        ]]
+Parsed inputs: 0.5 -127.37257420125614 148.43650725120958
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        -52.66962987  -29.61320525
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 -52.669629865932485 -29.613205252471477
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        165.88752685  180.
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 165.8875268469741 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        -59.03889582  143.99931743
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 -59.03889581724698 143.99931743056018
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74       -180.         -122.82065151
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 -180.0 -122.82065150897485
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        130.98924218   63.73189331
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 130.98924218031155 63.731893306512774
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74         35.71589384 -169.75129757
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 35.71589384053395 -169.7512975705579
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74         19.40272359   46.35230694
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 19.402723591059516 46.35230693548514
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74       -132.01457326  -19.13209559
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -132.01457325569643 -19.132095593258217
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74       -155.85073845  180.
+   180.          180.          180.        ]]
+Parsed inputs: 0.5 -155.85073845228828 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        168.97973693 -168.92403728
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 168.97973692553995 -168.92403728387401
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74       -158.14991203   51.50811696
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 -158.14991203379677 51.50811695950026
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        135.84555553  180.
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 135.84555552885482 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74        -49.02019469   61.93949513
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 -49.020194692418286 61.93949513473945
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74         22.60843311  -43.39555219
+   180.         -180.          180.        ]]
+Parsed inputs: 0.5 22.608433110428958 -43.395552194396494
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        -39.30844067 -129.29667478
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 -39.308440665706144 -129.2966747751409
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        -17.51839691  180.
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 -17.51839690833368 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74          9.96388815  180.
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 9.96388815165138 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74       -167.76696314  -47.10205063
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -167.7669631412309 -47.102050627248566
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        134.28048131  -59.48400807
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 134.28048130666943 -59.484008071555635
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74       -127.11995295  150.47828056
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 -127.11995294553653 150.47828056328288
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74       -180.          -35.35138233
+   180.          180.         -180.        ]]
+Parsed inputs: 0.5 -180.0 -35.3513823321089
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        145.52001183 -157.30978702
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 145.5200118342856 -157.30978701934632
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        -10.43023426   47.02716852
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 -10.430234264672045 47.02716852070807
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74       -180.           -2.10306439
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 -180.0 -2.1030643878275566
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74       -132.73136024  -47.9562153
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -132.73136024082487 -47.956215297374975
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74         13.16028863   77.81235825
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 13.160288630217762 77.81235824918716
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74        106.41295896  157.34315612
+   180.         -180.         -180.        ]]
+Parsed inputs: 0.5 106.41295895971659 157.34315611836442
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        167.00938237  -39.36298411
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 167.00938237456342 -39.3629841101233
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74        139.35656548  -34.8568065
+   180.         -180.         -180.        ]]
+Parsed inputs: 0.5 139.3565654830724 -34.85680649880726
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        166.61564503   47.6525767
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 166.6156450345301 47.65257669955425
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74        -48.30525497   22.08090051
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 -48.305254968091305 22.080900512908602
+Using head Default out of ['Default']
+Inputs received for optimization: [[  0.5        -14.1        -19.74       151.52878635 123.16000823
+  180.         180.         180.        ]]
+Parsed inputs: 0.5 151.52878635437952 123.16000823022921
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74         39.89276192  -48.61507206
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 39.892761922050454 -48.61507206209593
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74       -116.34019787   30.99483682
+  -180.          180.         -180.        ]]
+Parsed inputs: 0.5 -116.34019787397575 30.994836815367407
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1          19.74        -50.74624742  127.25629051
+  -180.          180.          180.        ]]
+Parsed inputs: 0.5 -50.74624742360697 127.2562905063042
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74        180.          -77.97414457
+  -180.         -180.          180.        ]]
+Parsed inputs: 0.5 180.0 -77.97414457124438
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74         28.79247365   53.76232393
+  -180.          180.         -180.        ]]
+Parsed inputs: 0.5 28.792473650505574 53.762323928539104
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74       -163.1465159   168.80927168
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 -163.14651589757605 168.8092716752687
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74       -131.98329441  180.
+   180.          180.          180.        ]]
+Parsed inputs: 4.5 -131.98329440914605 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74        -48.8746598   139.57966544
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 -48.87465980253995 139.57966543991475
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74         55.41314453   -4.50780946
+  -180.          180.         -180.        ]]
+Parsed inputs: 0.5 55.41314453372743 -4.5078094618678355
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74         43.25400575    5.26508539
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 43.254005751508316 5.26508538618015
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74        180.         -168.29015329
+   180.          180.         -180.        ]]
+Parsed inputs: 0.5 180.0 -168.29015328533308
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74         -9.45685254  -47.62605563
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 -9.456852543465335 -47.62605563479634
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74       -133.90257891 -129.81930808
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 -133.90257891234558 -129.8193080761862
+Using head Default out of ['Default']
+Inputs received for optimization: [[  0.5         14.1         19.74        46.30067055  20.31160335
+  180.         180.         180.        ]]
+Parsed inputs: 0.5 46.30067055396534 20.311603352650565
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74         21.65778316 -162.7937804
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 21.657783163926013 -162.79378039840805
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74       -136.0696769  -164.54886714
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 -136.06967689546255 -164.5488671404866
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1          19.74        135.73821554 -146.54520964
+   180.          180.         -180.        ]]
+Parsed inputs: 4.5 135.73821553667523 -146.54520964363462
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74         39.22348737  180.
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 39.22348736883995 180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74         -8.10130373 -180.
+   180.          180.          180.        ]]
+Parsed inputs: 0.5 -8.101303727556234 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1         -19.74         13.3034932   151.06200194
+   180.         -180.          180.        ]]
+Parsed inputs: 0.5 13.303493204620372 151.06200193594324
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        139.11655801 -180.
+   180.         -180.         -180.        ]]
+Parsed inputs: 4.5 139.1165580079575 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5          14.1          19.74        122.88894767 -180.
+   180.         -180.         -180.        ]]
+Parsed inputs: 0.5 122.88894766513009 -180.0
+Using head Default out of ['Default']
+Inputs received for optimization: [[   0.5         -14.1         -19.74         44.17579572 -115.98838986
+   180.          180.         -180.        ]]
+Parsed inputs: 0.5 44.17579571501651 -115.9883898611828
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1         -19.74        123.86196591 -126.51468448
+  -180.         -180.         -180.        ]]
+Parsed inputs: 4.5 123.86196591090238 -126.51468448132414
+Using head Default out of ['Default']
+Inputs received for optimization: [[  0.5         14.1         19.74       -60.76922139 -57.88569396
+  180.         180.         180.        ]]
+Parsed inputs: 0.5 -60.76922139150392 -57.8856939608981
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74        -12.40934469  -13.30593354
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 -12.409344685348671 -13.30593354201561
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74         46.01939396 -147.31480541
+  -180.          180.          180.        ]]
+Parsed inputs: 4.5 46.019393960937144 -147.3148054075107
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74       -162.28691706 -139.05300148
+  -180.         -180.          180.        ]]
+Parsed inputs: 4.5 -162.28691705682138 -139.0530014786686
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5          14.1         -19.74       -141.01555929  -19.49509986
+  -180.          180.         -180.        ]]
+Parsed inputs: 4.5 -141.01555928665962 -19.495099862306404
+Using head Default out of ['Default']
+Inputs received for optimization: [[   4.5         -14.1          19.74       -171.89599809  -36.81841293
+   180.         -180.          180.        ]]
+Parsed inputs: 4.5 -171.89599809076518 -36.818412925362736
+Using head Default out of ['Default']
+Predicted global min:  -174025494.01019952
+Active learning Done

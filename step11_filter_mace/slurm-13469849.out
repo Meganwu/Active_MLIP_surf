@@ -1,0 +1,28 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"cuda/11.3.1"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "cuda/11.3.1"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+/home/wun2/miniconda3/envs/boss_active/lib/python3.12/site-packages/e3nn/o3/_wigner.py:10: UserWarning: Environment variable TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD detected, since the`weights_only` argument was not explicitly passed to `torch.load`, forcing weights_only=False.
+  _Jd, _W3j_flat, _W3j_indices = torch.load(os.path.join(os.path.dirname(__file__), 'constants.pt'))
+/scratch/phys/sin/Nian_Wu/active_both_au_nacl_latest_version/active_MLIP_nacl_au/step15_filter_3/step15_cal_representation.py:58: UserWarning: Environment variable TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD detected, since the`weights_only` argument was not explicitly passed to `torch.load`, forcing weights_only=False.
+  model = torch.load('/scratch/phys/sin/Nian_Wu/active_both_au_nacl_latest_version/active_MLIP_nacl_au/step4_iter1/refine_foundation/add_select_plus_distort/model_best.model')
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+  0%|          | 0/596 [00:00<?, ?it/s]  9%|▉         | 55/596 [00:00<00:00, 546.35it/s] 18%|█▊        | 110/596 [00:00<00:00, 505.89it/s] 28%|██▊       | 166/596 [00:00<00:00, 528.64it/s] 37%|███▋      | 222/596 [00:00<00:00, 540.35it/s] 47%|████▋     | 278/596 [00:00<00:00, 546.28it/s] 56%|█████▌    | 334/596 [00:00<00:00, 548.51it/s] 66%|██████▌   | 391/596 [00:00<00:00, 554.49it/s] 75%|███████▌  | 447/596 [00:00<00:00, 553.68it/s] 85%|████████▍ | 504/596 [00:00<00:00, 556.18it/s] 94%|█████████▍| 560/596 [00:01<00:00, 555.19it/s]100%|██████████| 596/596 [00:01<00:00, 549.51it/s]
+/home/wun2/miniconda3/envs/boss_active/lib/python3.12/site-packages/e3nn/o3/_wigner.py:10: UserWarning: Environment variable TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD detected, since the`weights_only` argument was not explicitly passed to `torch.load`, forcing weights_only=False.
+  _Jd, _W3j_flat, _W3j_indices = torch.load(os.path.join(os.path.dirname(__file__), 'constants.pt'))
+/home/wun2/miniconda3/envs/boss_active/lib/python3.12/site-packages/mace/calculators/mace.py:199: UserWarning: Environment variable TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD detected, since the`weights_only` argument was not explicitly passed to `torch.load`, forcing weights_only=False.
+  torch.load(f=model_path, map_location=device)
+/home/wun2/miniconda3/envs/boss_active/lib/python3.12/site-packages/mace/calculators/mace.py:199: UserWarning: Environment variable TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD detected, since the`weights_only` argument was not explicitly passed to `torch.load`, forcing weights_only=False.
+  torch.load(f=model_path, map_location=device)
+/home/wun2/miniconda3/envs/boss_active/lib/python3.12/site-packages/mace/calculators/mace.py:199: UserWarning: Environment variable TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD detected, since the`weights_only` argument was not explicitly passed to `torch.load`, forcing weights_only=False.
+  torch.load(f=model_path, map_location=device)
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+Active learning Done

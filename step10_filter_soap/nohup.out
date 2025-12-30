@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/scratch/phys/sin/Nian_Wu/active_both_au_nacl_latest_version/active_MLIP_nacl_au/step14_filter_soap/step15_cal_sim_mace_multi.py", line 91, in <module>
+    with open(f'sim_matrix_min_max_{save_suffix}.txt', 'a') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 108] Cannot send after transport endpoint shutdown
