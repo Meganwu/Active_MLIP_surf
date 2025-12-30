@@ -1,0 +1,808 @@
+# 
+# This is the geometry file that corresponds to the current relaxation step.
+# If you do not want this file to be written, set the "write_restart_geometry" flag to .false.
+#  aims_uuid : EA62AAF2-BC10-4E25-A9C8-F99918C3F750                                
+# 
+  set_vacuum_level        37.199707
+lattice_vector     31.71939599      0.00000000      0.00000000
+lattice_vector      0.00000000     29.96705751      0.00000000
+lattice_vector      0.00000000      0.00000000     67.06330319
+atom      16.92357034     12.12959755      0.00000000 Au
+  constrain_relaxation .true.
+atom      19.80715179     12.12959755      0.00000000 Au
+  constrain_relaxation .true.
+atom      22.69073325     12.12959755      0.00000000 Au
+  constrain_relaxation .true.
+atom      25.57431470     12.12959755      0.00000000 Au
+  constrain_relaxation .true.
+atom      28.45789615     12.12959755      0.00000000 Au
+  constrain_relaxation .true.
+atom      31.34147761     12.12959755      0.00000000 Au
+  constrain_relaxation .true.
+atom       2.50566307     12.12959755      0.00000000 Au
+  constrain_relaxation .true.
+atom       5.38924453     12.12959755      0.00000000 Au
+  constrain_relaxation .true.
+atom       8.27282599     12.12959755      0.00000000 Au
+  constrain_relaxation .true.
+atom      11.15640744     12.12959755      0.00000000 Au
+  constrain_relaxation .true.
+atom      14.03998890     12.12959755      0.00000000 Au
+  constrain_relaxation .true.
+atom      18.36536107     14.62685234      0.00000000 Au
+  constrain_relaxation .true.
+atom      21.24894252     14.62685234      0.00000000 Au
+  constrain_relaxation .true.
+atom      24.13252397     14.62685234      0.00000000 Au
+  constrain_relaxation .true.
+atom      27.01610543     14.62685234      0.00000000 Au
+  constrain_relaxation .true.
+atom      29.89968688     14.62685234      0.00000000 Au
+  constrain_relaxation .true.
+atom       1.06387235     14.62685234      0.00000000 Au
+  constrain_relaxation .true.
+atom       3.94745380     14.62685234      0.00000000 Au
+  constrain_relaxation .true.
+atom       6.83103526     14.62685234      0.00000000 Au
+  constrain_relaxation .true.
+atom       9.71461672     14.62685234      0.00000000 Au
+  constrain_relaxation .true.
+atom      12.59819816     14.62685234      0.00000000 Au
+  constrain_relaxation .true.
+atom      15.48177961     14.62685234      0.00000000 Au
+  constrain_relaxation .true.
+atom      16.92357034     17.12410714      0.00000000 Au
+  constrain_relaxation .true.
+atom      19.80715179     17.12410714      0.00000000 Au
+  constrain_relaxation .true.
+atom      22.69073325     17.12410714      0.00000000 Au
+  constrain_relaxation .true.
+atom      25.57431470     17.12410714      0.00000000 Au
+  constrain_relaxation .true.
+atom      28.45789615     17.12410714      0.00000000 Au
+  constrain_relaxation .true.
+atom      31.34147761     17.12410714      0.00000000 Au
+  constrain_relaxation .true.
+atom       2.50566307     17.12410714      0.00000000 Au
+  constrain_relaxation .true.
+atom       5.38924453     17.12410714      0.00000000 Au
+  constrain_relaxation .true.
+atom       8.27282599     17.12410714      0.00000000 Au
+  constrain_relaxation .true.
+atom      11.15640744     17.12410714      0.00000000 Au
+  constrain_relaxation .true.
+atom      14.03998890     17.12410714      0.00000000 Au
+  constrain_relaxation .true.
+atom      18.36536107     19.62136193      0.00000000 Au
+  constrain_relaxation .true.
+atom      21.24894252     19.62136193      0.00000000 Au
+  constrain_relaxation .true.
+atom      24.13252397     19.62136193      0.00000000 Au
+  constrain_relaxation .true.
+atom      27.01610543     19.62136193      0.00000000 Au
+  constrain_relaxation .true.
+atom      29.89968688     19.62136193      0.00000000 Au
+  constrain_relaxation .true.
+atom       1.06387235     19.62136193      0.00000000 Au
+  constrain_relaxation .true.
+atom       3.94745380     19.62136193      0.00000000 Au
+  constrain_relaxation .true.
+atom       6.83103526     19.62136193      0.00000000 Au
+  constrain_relaxation .true.
+atom       9.71461672     19.62136193      0.00000000 Au
+  constrain_relaxation .true.
+atom      12.59819816     19.62136193      0.00000000 Au
+  constrain_relaxation .true.
+atom      15.48177961     19.62136193      0.00000000 Au
+  constrain_relaxation .true.
+atom      16.92357034     22.11861672      0.00000000 Au
+  constrain_relaxation .true.
+atom      19.80715179     22.11861672      0.00000000 Au
+  constrain_relaxation .true.
+atom      22.69073325     22.11861672      0.00000000 Au
+  constrain_relaxation .true.
+atom      25.57431470     22.11861672      0.00000000 Au
+  constrain_relaxation .true.
+atom      28.45789615     22.11861672      0.00000000 Au
+  constrain_relaxation .true.
+atom      31.34147761     22.11861672      0.00000000 Au
+  constrain_relaxation .true.
+atom       2.50566307     22.11861672      0.00000000 Au
+  constrain_relaxation .true.
+atom       5.38924453     22.11861672      0.00000000 Au
+  constrain_relaxation .true.
+atom       8.27282599     22.11861672      0.00000000 Au
+  constrain_relaxation .true.
+atom      11.15640744     22.11861672      0.00000000 Au
+  constrain_relaxation .true.
+atom      14.03998890     22.11861672      0.00000000 Au
+  constrain_relaxation .true.
+atom      18.36536107     24.61587152      0.00000000 Au
+  constrain_relaxation .true.
+atom      21.24894252     24.61587152      0.00000000 Au
+  constrain_relaxation .true.
+atom      24.13252397     24.61587152      0.00000000 Au
+  constrain_relaxation .true.
+atom      27.01610543     24.61587152      0.00000000 Au
+  constrain_relaxation .true.
+atom      29.89968688     24.61587152      0.00000000 Au
+  constrain_relaxation .true.
+atom       1.06387235     24.61587152      0.00000000 Au
+  constrain_relaxation .true.
+atom       3.94745380     24.61587152      0.00000000 Au
+  constrain_relaxation .true.
+atom       6.83103526     24.61587152      0.00000000 Au
+  constrain_relaxation .true.
+atom       9.71461672     24.61587152      0.00000000 Au
+  constrain_relaxation .true.
+atom      12.59819816     24.61587152      0.00000000 Au
+  constrain_relaxation .true.
+atom      15.48177961     24.61587152      0.00000000 Au
+  constrain_relaxation .true.
+atom      16.92357034     27.11312631      0.00000000 Au
+  constrain_relaxation .true.
+atom      19.80715179     27.11312631      0.00000000 Au
+  constrain_relaxation .true.
+atom      22.69073325     27.11312631      0.00000000 Au
+  constrain_relaxation .true.
+atom      25.57431470     27.11312631      0.00000000 Au
+  constrain_relaxation .true.
+atom      28.45789615     27.11312631      0.00000000 Au
+  constrain_relaxation .true.
+atom      31.34147761     27.11312631      0.00000000 Au
+  constrain_relaxation .true.
+atom       2.50566307     27.11312631      0.00000000 Au
+  constrain_relaxation .true.
+atom       5.38924453     27.11312631      0.00000000 Au
+  constrain_relaxation .true.
+atom       8.27282599     27.11312631      0.00000000 Au
+  constrain_relaxation .true.
+atom      11.15640744     27.11312631      0.00000000 Au
+  constrain_relaxation .true.
+atom      14.03998890     27.11312631      0.00000000 Au
+  constrain_relaxation .true.
+atom      18.36536107     29.61038110      0.00000000 Au
+  constrain_relaxation .true.
+atom      21.24894252     29.61038110      0.00000000 Au
+  constrain_relaxation .true.
+atom      24.13252397     29.61038110      0.00000000 Au
+  constrain_relaxation .true.
+atom      27.01610543     29.61038110      0.00000000 Au
+  constrain_relaxation .true.
+atom      29.89968688     29.61038110      0.00000000 Au
+  constrain_relaxation .true.
+atom       1.06387235     29.61038110      0.00000000 Au
+  constrain_relaxation .true.
+atom       3.94745380     29.61038110      0.00000000 Au
+  constrain_relaxation .true.
+atom       6.83103526     29.61038110      0.00000000 Au
+  constrain_relaxation .true.
+atom       9.71461672     29.61038110      0.00000000 Au
+  constrain_relaxation .true.
+atom      12.59819816     29.61038110      0.00000000 Au
+  constrain_relaxation .true.
+atom      15.48177961     29.61038110      0.00000000 Au
+  constrain_relaxation .true.
+atom      16.92357034      2.14057839      0.00000000 Au
+  constrain_relaxation .true.
+atom      19.80715179      2.14057839      0.00000000 Au
+  constrain_relaxation .true.
+atom      22.69073325      2.14057839      0.00000000 Au
+  constrain_relaxation .true.
+atom      25.57431470      2.14057839      0.00000000 Au
+  constrain_relaxation .true.
+atom      28.45789615      2.14057839      0.00000000 Au
+  constrain_relaxation .true.
+atom      31.34147761      2.14057839      0.00000000 Au
+  constrain_relaxation .true.
+atom       2.50566307      2.14057839      0.00000000 Au
+  constrain_relaxation .true.
+atom       5.38924453      2.14057839      0.00000000 Au
+  constrain_relaxation .true.
+atom       8.27282599      2.14057839      0.00000000 Au
+  constrain_relaxation .true.
+atom      11.15640744      2.14057839      0.00000000 Au
+  constrain_relaxation .true.
+atom      14.03998890      2.14057839      0.00000000 Au
+  constrain_relaxation .true.
+atom      18.36536107      4.63783318      0.00000000 Au
+  constrain_relaxation .true.
+atom      21.24894252      4.63783318      0.00000000 Au
+  constrain_relaxation .true.
+atom      24.13252397      4.63783318      0.00000000 Au
+  constrain_relaxation .true.
+atom      27.01610543      4.63783318      0.00000000 Au
+  constrain_relaxation .true.
+atom      29.89968688      4.63783318      0.00000000 Au
+  constrain_relaxation .true.
+atom       1.06387235      4.63783318      0.00000000 Au
+  constrain_relaxation .true.
+atom       3.94745380      4.63783318      0.00000000 Au
+  constrain_relaxation .true.
+atom       6.83103526      4.63783318      0.00000000 Au
+  constrain_relaxation .true.
+atom       9.71461672      4.63783318      0.00000000 Au
+  constrain_relaxation .true.
+atom      12.59819816      4.63783318      0.00000000 Au
+  constrain_relaxation .true.
+atom      15.48177961      4.63783318      0.00000000 Au
+  constrain_relaxation .true.
+atom      16.92357034      7.13508798      0.00000000 Au
+  constrain_relaxation .true.
+atom      19.80715179      7.13508798      0.00000000 Au
+  constrain_relaxation .true.
+atom      22.69073325      7.13508798      0.00000000 Au
+  constrain_relaxation .true.
+atom      25.57431470      7.13508798      0.00000000 Au
+  constrain_relaxation .true.
+atom      28.45789615      7.13508798      0.00000000 Au
+  constrain_relaxation .true.
+atom      31.34147761      7.13508798      0.00000000 Au
+  constrain_relaxation .true.
+atom       2.50566307      7.13508798      0.00000000 Au
+  constrain_relaxation .true.
+atom       5.38924453      7.13508798      0.00000000 Au
+  constrain_relaxation .true.
+atom       8.27282599      7.13508798      0.00000000 Au
+  constrain_relaxation .true.
+atom      11.15640744      7.13508798      0.00000000 Au
+  constrain_relaxation .true.
+atom      14.03998890      7.13508798      0.00000000 Au
+  constrain_relaxation .true.
+atom      18.36536107      9.63234276      0.00000000 Au
+  constrain_relaxation .true.
+atom      21.24894252      9.63234276      0.00000000 Au
+  constrain_relaxation .true.
+atom      24.13252397      9.63234276      0.00000000 Au
+  constrain_relaxation .true.
+atom      27.01610543      9.63234276      0.00000000 Au
+  constrain_relaxation .true.
+atom      29.89968688      9.63234276      0.00000000 Au
+  constrain_relaxation .true.
+atom       1.06387235      9.63234276      0.00000000 Au
+  constrain_relaxation .true.
+atom       3.94745380      9.63234276      0.00000000 Au
+  constrain_relaxation .true.
+atom       6.83103526      9.63234276      0.00000000 Au
+  constrain_relaxation .true.
+atom       9.71461672      9.63234276      0.00000000 Au
+  constrain_relaxation .true.
+atom      12.59819816      9.63234276      0.00000000 Au
+  constrain_relaxation .true.
+atom      15.48177961      9.63234276      0.00000000 Au
+  constrain_relaxation .true.
+atom      18.36536107     12.96201581      2.35443440 Au
+  constrain_relaxation .true.
+atom      21.24894252     12.96201581      2.35443440 Au
+  constrain_relaxation .true.
+atom      24.13252397     12.96201581      2.35443440 Au
+  constrain_relaxation .true.
+atom      27.01610543     12.96201581      2.35443440 Au
+  constrain_relaxation .true.
+atom      29.89968688     12.96201581      2.35443440 Au
+  constrain_relaxation .true.
+atom       1.06387235     12.96201581      2.35443440 Au
+  constrain_relaxation .true.
+atom       3.94745380     12.96201581      2.35443440 Au
+  constrain_relaxation .true.
+atom       6.83103526     12.96201581      2.35443440 Au
+  constrain_relaxation .true.
+atom       9.71461672     12.96201581      2.35443440 Au
+  constrain_relaxation .true.
+atom      12.59819816     12.96201581      2.35443440 Au
+  constrain_relaxation .true.
+atom      15.48177961     12.96201581      2.35443440 Au
+  constrain_relaxation .true.
+atom      16.92357034     15.45927061      2.35443440 Au
+  constrain_relaxation .true.
+atom      19.80715179     15.45927061      2.35443440 Au
+  constrain_relaxation .true.
+atom      22.69073325     15.45927061      2.35443440 Au
+  constrain_relaxation .true.
+atom      25.57431470     15.45927061      2.35443440 Au
+  constrain_relaxation .true.
+atom      28.45789615     15.45927061      2.35443440 Au
+  constrain_relaxation .true.
+atom      31.34147761     15.45927061      2.35443440 Au
+  constrain_relaxation .true.
+atom       2.50566307     15.45927061      2.35443440 Au
+  constrain_relaxation .true.
+atom       5.38924453     15.45927061      2.35443440 Au
+  constrain_relaxation .true.
+atom       8.27282599     15.45927061      2.35443440 Au
+  constrain_relaxation .true.
+atom      11.15640744     15.45927061      2.35443440 Au
+  constrain_relaxation .true.
+atom      14.03998890     15.45927061      2.35443440 Au
+  constrain_relaxation .true.
+atom      18.36536107     17.95652540      2.35443440 Au
+  constrain_relaxation .true.
+atom      21.24894252     17.95652540      2.35443440 Au
+  constrain_relaxation .true.
+atom      24.13252397     17.95652540      2.35443440 Au
+  constrain_relaxation .true.
+atom      27.01610543     17.95652540      2.35443440 Au
+  constrain_relaxation .true.
+atom      29.89968688     17.95652540      2.35443440 Au
+  constrain_relaxation .true.
+atom       1.06387235     17.95652540      2.35443440 Au
+  constrain_relaxation .true.
+atom       3.94745380     17.95652540      2.35443440 Au
+  constrain_relaxation .true.
+atom       6.83103526     17.95652540      2.35443440 Au
+  constrain_relaxation .true.
+atom       9.71461672     17.95652540      2.35443440 Au
+  constrain_relaxation .true.
+atom      12.59819816     17.95652540      2.35443440 Au
+  constrain_relaxation .true.
+atom      15.48177961     17.95652540      2.35443440 Au
+  constrain_relaxation .true.
+atom      16.92357034     20.45378019      2.35443440 Au
+  constrain_relaxation .true.
+atom      19.80715179     20.45378019      2.35443440 Au
+  constrain_relaxation .true.
+atom      22.69073325     20.45378019      2.35443440 Au
+  constrain_relaxation .true.
+atom      25.57431470     20.45378019      2.35443440 Au
+  constrain_relaxation .true.
+atom      28.45789615     20.45378019      2.35443440 Au
+  constrain_relaxation .true.
+atom      31.34147761     20.45378019      2.35443440 Au
+  constrain_relaxation .true.
+atom       2.50566307     20.45378019      2.35443440 Au
+  constrain_relaxation .true.
+atom       5.38924453     20.45378019      2.35443440 Au
+  constrain_relaxation .true.
+atom       8.27282599     20.45378019      2.35443440 Au
+  constrain_relaxation .true.
+atom      11.15640744     20.45378019      2.35443440 Au
+  constrain_relaxation .true.
+atom      14.03998890     20.45378019      2.35443440 Au
+  constrain_relaxation .true.
+atom      18.36536107     22.95103499      2.35443440 Au
+  constrain_relaxation .true.
+atom      21.24894252     22.95103499      2.35443440 Au
+  constrain_relaxation .true.
+atom      24.13252397     22.95103499      2.35443440 Au
+  constrain_relaxation .true.
+atom      27.01610543     22.95103499      2.35443440 Au
+  constrain_relaxation .true.
+atom      29.89968688     22.95103499      2.35443440 Au
+  constrain_relaxation .true.
+atom       1.06387235     22.95103499      2.35443440 Au
+  constrain_relaxation .true.
+atom       3.94745380     22.95103499      2.35443440 Au
+  constrain_relaxation .true.
+atom       6.83103526     22.95103499      2.35443440 Au
+  constrain_relaxation .true.
+atom       9.71461672     22.95103499      2.35443440 Au
+  constrain_relaxation .true.
+atom      12.59819816     22.95103499      2.35443440 Au
+  constrain_relaxation .true.
+atom      15.48177961     22.95103499      2.35443440 Au
+  constrain_relaxation .true.
+atom      16.92357034     25.44828978      2.35443440 Au
+  constrain_relaxation .true.
+atom      19.80715179     25.44828978      2.35443440 Au
+  constrain_relaxation .true.
+atom      22.69073325     25.44828978      2.35443440 Au
+  constrain_relaxation .true.
+atom      25.57431470     25.44828978      2.35443440 Au
+  constrain_relaxation .true.
+atom      28.45789615     25.44828978      2.35443440 Au
+  constrain_relaxation .true.
+atom      31.34147761     25.44828978      2.35443440 Au
+  constrain_relaxation .true.
+atom       2.50566307     25.44828978      2.35443440 Au
+  constrain_relaxation .true.
+atom       5.38924453     25.44828978      2.35443440 Au
+  constrain_relaxation .true.
+atom       8.27282599     25.44828978      2.35443440 Au
+  constrain_relaxation .true.
+atom      11.15640744     25.44828978      2.35443440 Au
+  constrain_relaxation .true.
+atom      14.03998890     25.44828978      2.35443440 Au
+  constrain_relaxation .true.
+atom      18.36536107     27.94554457      2.35443440 Au
+  constrain_relaxation .true.
+atom      21.24894252     27.94554457      2.35443440 Au
+  constrain_relaxation .true.
+atom      24.13252397     27.94554457      2.35443440 Au
+  constrain_relaxation .true.
+atom      27.01610543     27.94554457      2.35443440 Au
+  constrain_relaxation .true.
+atom      29.89968688     27.94554457      2.35443440 Au
+  constrain_relaxation .true.
+atom       1.06387235     27.94554457      2.35443440 Au
+  constrain_relaxation .true.
+atom       3.94745380     27.94554457      2.35443440 Au
+  constrain_relaxation .true.
+atom       6.83103526     27.94554457      2.35443440 Au
+  constrain_relaxation .true.
+atom       9.71461672     27.94554457      2.35443440 Au
+  constrain_relaxation .true.
+atom      12.59819816     27.94554457      2.35443440 Au
+  constrain_relaxation .true.
+atom      15.48177961     27.94554457      2.35443440 Au
+  constrain_relaxation .true.
+atom      16.92357034      0.47574186      2.35443440 Au
+  constrain_relaxation .true.
+atom      19.80715179      0.47574186      2.35443440 Au
+  constrain_relaxation .true.
+atom      22.69073325      0.47574186      2.35443440 Au
+  constrain_relaxation .true.
+atom      25.57431470      0.47574186      2.35443440 Au
+  constrain_relaxation .true.
+atom      28.45789615      0.47574186      2.35443440 Au
+  constrain_relaxation .true.
+atom      31.34147761      0.47574186      2.35443440 Au
+  constrain_relaxation .true.
+atom       2.50566307      0.47574186      2.35443440 Au
+  constrain_relaxation .true.
+atom       5.38924453      0.47574186      2.35443440 Au
+  constrain_relaxation .true.
+atom       8.27282599      0.47574186      2.35443440 Au
+  constrain_relaxation .true.
+atom      11.15640744      0.47574186      2.35443440 Au
+  constrain_relaxation .true.
+atom      14.03998890      0.47574186      2.35443440 Au
+  constrain_relaxation .true.
+atom      18.36536107      2.97299666      2.35443440 Au
+  constrain_relaxation .true.
+atom      21.24894252      2.97299666      2.35443440 Au
+  constrain_relaxation .true.
+atom      24.13252397      2.97299666      2.35443440 Au
+  constrain_relaxation .true.
+atom      27.01610543      2.97299666      2.35443440 Au
+  constrain_relaxation .true.
+atom      29.89968688      2.97299666      2.35443440 Au
+  constrain_relaxation .true.
+atom       1.06387235      2.97299666      2.35443440 Au
+  constrain_relaxation .true.
+atom       3.94745380      2.97299666      2.35443440 Au
+  constrain_relaxation .true.
+atom       6.83103526      2.97299666      2.35443440 Au
+  constrain_relaxation .true.
+atom       9.71461672      2.97299666      2.35443440 Au
+  constrain_relaxation .true.
+atom      12.59819816      2.97299666      2.35443440 Au
+  constrain_relaxation .true.
+atom      15.48177961      2.97299666      2.35443440 Au
+  constrain_relaxation .true.
+atom      16.92357034      5.47025144      2.35443440 Au
+  constrain_relaxation .true.
+atom      19.80715179      5.47025144      2.35443440 Au
+  constrain_relaxation .true.
+atom      22.69073325      5.47025144      2.35443440 Au
+  constrain_relaxation .true.
+atom      25.57431470      5.47025144      2.35443440 Au
+  constrain_relaxation .true.
+atom      28.45789615      5.47025144      2.35443440 Au
+  constrain_relaxation .true.
+atom      31.34147761      5.47025144      2.35443440 Au
+  constrain_relaxation .true.
+atom       2.50566307      5.47025144      2.35443440 Au
+  constrain_relaxation .true.
+atom       5.38924453      5.47025144      2.35443440 Au
+  constrain_relaxation .true.
+atom       8.27282599      5.47025144      2.35443440 Au
+  constrain_relaxation .true.
+atom      11.15640744      5.47025144      2.35443440 Au
+  constrain_relaxation .true.
+atom      14.03998890      5.47025144      2.35443440 Au
+  constrain_relaxation .true.
+atom      18.36536107      7.96750623      2.35443440 Au
+  constrain_relaxation .true.
+atom      21.24894252      7.96750623      2.35443440 Au
+  constrain_relaxation .true.
+atom      24.13252397      7.96750623      2.35443440 Au
+  constrain_relaxation .true.
+atom      27.01610543      7.96750623      2.35443440 Au
+  constrain_relaxation .true.
+atom      29.89968688      7.96750623      2.35443440 Au
+  constrain_relaxation .true.
+atom       1.06387235      7.96750623      2.35443440 Au
+  constrain_relaxation .true.
+atom       3.94745380      7.96750623      2.35443440 Au
+  constrain_relaxation .true.
+atom       6.83103526      7.96750623      2.35443440 Au
+  constrain_relaxation .true.
+atom       9.71461672      7.96750623      2.35443440 Au
+  constrain_relaxation .true.
+atom      12.59819816      7.96750623      2.35443440 Au
+  constrain_relaxation .true.
+atom      15.48177961      7.96750623      2.35443440 Au
+  constrain_relaxation .true.
+atom      16.92357034     10.46476102      2.35443440 Au
+  constrain_relaxation .true.
+atom      19.80715179     10.46476102      2.35443440 Au
+  constrain_relaxation .true.
+atom      22.69073325     10.46476102      2.35443440 Au
+  constrain_relaxation .true.
+atom      25.57431470     10.46476102      2.35443440 Au
+  constrain_relaxation .true.
+atom      28.45789615     10.46476102      2.35443440 Au
+  constrain_relaxation .true.
+atom      31.34147761     10.46476102      2.35443440 Au
+  constrain_relaxation .true.
+atom       2.50566307     10.46476102      2.35443440 Au
+  constrain_relaxation .true.
+atom       5.38924453     10.46476102      2.35443440 Au
+  constrain_relaxation .true.
+atom       8.27282599     10.46476102      2.35443440 Au
+  constrain_relaxation .true.
+atom      11.15640744     10.46476102      2.35443440 Au
+  constrain_relaxation .true.
+atom      14.03998890     10.46476102      2.35443440 Au
+  constrain_relaxation .true.
+atom      16.92418814     13.82263538      4.80987925 Au
+atom      19.80738668     13.82212650      4.81012773 Au
+atom      22.69159315     13.82235313      4.80988459 Au
+atom      25.57459147     13.82209857      4.81008114 Au
+atom      28.45836844     13.82242328      4.81050949 Au
+atom      31.34184569     13.82229776      4.81052499 Au
+atom       2.50586283     13.82249039      4.81055986 Au
+atom       5.38958061     13.82259934      4.81060359 Au
+atom       8.27286483     13.82255678      4.81047231 Au
+atom      11.15701510     13.82292334      4.81042249 Au
+atom      14.04022510     13.82259892      4.81031140 Au
+atom      18.36584675     16.31990788      4.80993876 Au
+atom      21.24944589     16.31986249      4.81055160 Au
+atom      24.13292020     16.31966221      4.81017034 Au
+atom      27.01654651     16.31984503      4.81058584 Au
+atom      29.90003284     16.31993818      4.81049863 Au
+atom       1.06408185     16.31969650      4.81052020 Au
+atom       3.94775617     16.31978949      4.81053279 Au
+atom       6.83098254     16.31988456      4.81053538 Au
+atom       9.71518718     16.32004424      4.81045257 Au
+atom      12.59819926     16.32011141      4.81005214 Au
+atom      15.48240027     16.32000685      4.81029834 Au
+atom      16.92396726     18.81748872      4.81033025 Au
+atom      19.80756191     18.81761408      4.81042961 Au
+atom      22.69095491     18.81733789      4.81009944 Au
+atom      25.57489174     18.81737185      4.81028825 Au
+atom      28.45821624     18.81701276      4.81055982 Au
+atom      31.34160432     18.81696923      4.81056845 Au
+atom       2.50592645     18.81700043      4.81056249 Au
+atom       5.38935030     18.81684884      4.81052180 Au
+atom       8.27292185     18.81733456      4.81049577 Au
+atom      11.15668205     18.81731702      4.81045947 Au
+atom      14.04012176     18.81761148      4.81029354 Au
+atom      18.36586992     21.31463528      4.81067524 Au
+atom      21.24909128     21.31473838      4.81015207 Au
+atom      24.13288769     21.31483116      4.81059029 Au
+atom      27.01650323     21.31449590      4.81054020 Au
+atom      29.89988822     21.31438608      4.81053059 Au
+atom       1.06419168     21.31421019      4.81060022 Au
+atom       3.94753084     21.31426695      4.81061529 Au
+atom       6.83124794     21.31446534      4.81054582 Au
+atom       9.71456696     21.31443590      4.81049412 Au
+atom      12.59838326     21.31476943      4.81026963 Au
+atom      15.48174163     21.31492121      4.80997446 Au
+atom      16.92356025     23.81217010      4.81056324 Au
+atom      19.80733925     23.81210826      4.81055040 Au
+atom      22.69113867     23.81183684      4.81046958 Au
+atom      25.57472270     23.81183865      4.81052815 Au
+atom      28.45822022     23.81132330      4.81056841 Au
+atom      31.34180560     23.81148363      4.81054318 Au
+atom       2.50594163     23.81141598      4.81056873 Au
+atom       5.38940131     23.81154809      4.81056367 Au
+atom       8.27258940     23.81170224      4.81052282 Au
+atom      11.15651140     23.81181344      4.81045607 Au
+atom      14.03990994     23.81183988      4.81043418 Au
+atom      18.36558795     26.30932140      4.81034509 Au
+atom      21.24906567     26.30926543      4.81042584 Au
+atom      24.13295906     26.30896061      4.81058686 Au
+atom      27.01635880     26.30881818      4.81056193 Au
+atom      29.90023743     26.30878838      4.81059807 Au
+atom       1.06418931     26.30867545      4.81058713 Au
+atom       3.94767870     26.30878029      4.81057714 Au
+atom       6.83103244     26.30883868      4.81062189 Au
+atom       9.71435096     26.30907683      4.81054021 Au
+atom      12.59792220     26.30917641      4.81045384 Au
+atom      15.48166452     26.30936607      4.81043493 Au
+atom      16.92329413     28.80640009      4.81052622 Au
+atom      19.80726358     28.80606448      4.81066687 Au
+atom      22.69096990     28.80600255      4.81063359 Au
+atom      25.57481613     28.80589322      4.81057087 Au
+atom      28.45834870     28.80600330      4.81060027 Au
+atom      31.34178771     28.80592368      4.81057171 Au
+atom       2.50607029     28.80589871      4.81062945 Au
+atom       5.38923434     28.80599552      4.81060215 Au
+atom       8.27272370     28.80613537      4.81057407 Au
+atom      11.15594672     28.80636518      4.81058301 Au
+atom      14.04006388     28.80647440      4.81056549 Au
+atom      18.36533763      1.33631419      4.81031721 Au
+atom      21.24925733      1.33584828      4.81053980 Au
+atom      24.13291385      1.33601220      4.81057902 Au
+atom      27.01663229      1.33604193      4.81052117 Au
+atom      29.90010879      1.33598611      4.81057941 Au
+atom       1.06411736      1.33622684      4.81063571 Au
+atom       3.94766163      1.33610041      4.81061553 Au
+atom       6.83098084      1.33637913      4.81062712 Au
+atom       9.71440945      1.33607946      4.81058738 Au
+atom      12.59792926      1.33665624      4.81034257 Au
+atom      15.48154301      1.33607522      4.81038800 Au
+atom      16.92373096      3.83340139      4.81075256 Au
+atom      19.80699300      3.83311785      4.81044566 Au
+atom      22.69129024      3.83319391      4.81060678 Au
+atom      25.57488426      3.83281288      4.81050173 Au
+atom      28.45832454      3.83323202      4.81053072 Au
+atom      31.34197978      3.83327420      4.81060750 Au
+atom       2.50579291      3.83348861      4.81061274 Au
+atom       5.38952642      3.83350774      4.81055789 Au
+atom       8.27229922      3.83367197      4.81057458 Au
+atom      11.15668173      3.83366311      4.81061561 Au
+atom      14.03961710      3.83363755      4.81029502 Au
+atom      18.36544515      6.33041212      4.81051381 Au
+atom      21.24943763      6.32993985      4.81015421 Au
+atom      24.13280161      6.33023664      4.81056147 Au
+atom      27.01683265      6.33027454      4.81052675 Au
+atom      29.89999132      6.33043792      4.81059419 Au
+atom       1.06434021      6.33055666      4.81056985 Au
+atom       3.94758619      6.33084300      4.81055384 Au
+atom       6.83115726      6.33072052      4.81052521 Au
+atom       9.71474279      6.33108669      4.81057971 Au
+atom      12.59801675      6.33081839      4.80999702 Au
+atom      15.48193139      6.33049859      4.81066225 Au
+atom      16.92397684      8.82723669      4.80999064 Au
+atom      19.80726392      8.82731256      4.81023332 Au
+atom      22.69170565      8.82722234      4.80998917 Au
+atom      25.57468051      8.82741657      4.81027288 Au
+atom      28.45857107      8.82745744      4.81056066 Au
+atom      31.34183048      8.82792452      4.81058458 Au
+atom       2.50614716      8.82787029      4.81057054 Au
+atom       5.38922493      8.82795223      4.81053258 Au
+atom       8.27319180      8.82833330      4.81049708 Au
+atom      11.15644151      8.82828225      4.81031463 Au
+atom      14.04001023      8.82799896      4.81037313 Au
+atom      18.36623174     11.32530537      4.81039881 Au
+atom      21.24929765     11.32480149      4.81047363 Au
+atom      24.13332715     11.32497752      4.81002600 Au
+atom      27.01631901     11.32493033      4.81052137 Au
+atom      29.90051641     11.32506837      4.81042494 Au
+atom       1.06400883     11.32531288      4.81056395 Au
+atom       3.94767816     11.32520549      4.81060510 Au
+atom       6.83153181     11.32553866      4.81052850 Au
+atom       9.71483638     11.32522928      4.81038234 Au
+atom      12.59839264     11.32561842      4.81027998 Au
+atom      15.48191009     11.32543350      4.81019182 Au
+atom      16.92473447     12.17043810      7.31420232 Au
+atom      19.80758948     12.16998897      7.31338431 Au
+atom      22.69191838     12.16997389      7.31310782 Au
+atom      25.57496775     12.17006838      7.31383133 Au
+atom      28.45817332     12.17047362      7.31408780 Au
+atom      31.34211021     12.17049075      7.31416646 Au
+atom       2.50608957     12.17066928      7.31413813 Au
+atom       5.38967685     12.17078596      7.31417821 Au
+atom       8.27321009     12.17089727      7.31411960 Au
+atom      11.15721273     12.17122902      7.31414213 Au
+atom      14.04081011     12.17104310      7.31390650 Au
+atom      18.36592181     14.66751940      7.31391502 Au
+atom      21.24983285     14.66784494      7.31246061 Au
+atom      24.13331285     14.66783897      7.31406461 Au
+atom      27.01651137     14.66789267      7.31387376 Au
+atom      29.90019086     14.66775927      7.31423435 Au
+atom       1.06423270     14.66781225      7.31415745 Au
+atom       3.94795091     14.66786695      7.31411342 Au
+atom       6.83149635     14.66806235      7.31418190 Au
+atom       9.71519448     14.66831706      7.31412775 Au
+atom      12.59889213     14.66793388      7.31397618 Au
+atom      15.48284068     14.66845229      7.31401287 Au
+atom      16.92434251     17.16528801      7.31283050 Au
+atom      19.80814167     17.16570091      7.31424217 Au
+atom      22.69138975     17.16551463      7.31262576 Au
+atom      25.57503447     17.16501518      7.31416609 Au
+atom      28.45827095     17.16523156      7.31405538 Au
+atom      31.34197324     17.16510939      7.31424268 Au
+atom       2.50601323     17.16512146      7.31416274 Au
+atom       5.38963844     17.16511248      7.31410359 Au
+atom       8.27338659     17.16536184      7.31418606 Au
+atom      11.15677345     17.16586000      7.31404003 Au
+atom      14.04088753     17.16569215      7.31353634 Au
+atom      18.36600011     19.66317994      7.31452275 Au
+atom      21.24922804     19.66280879      7.31410405 Au
+atom      24.13320502     19.66303410      7.31433277 Au
+atom      27.01661301     19.66262407      7.31418444 Au
+atom      29.90025789     19.66238135      7.31426298 Au
+atom       1.06424778     19.66233486      7.31421618 Au
+atom       3.94774866     19.66235853      7.31417925 Au
+atom       6.83133355     19.66249247      7.31423448 Au
+atom       9.71500289     19.66264442      7.31395851 Au
+atom      12.59857250     19.66287805      7.31406901 Au
+atom      15.48224892     19.66320114      7.31248842 Au
+atom      16.92408366     22.16034458      7.31367890 Au
+atom      19.80731517     22.16012416      7.31401333 Au
+atom      22.69146576     22.16021196      7.31417042 Au
+atom      25.57477051     22.15979624      7.31424946 Au
+atom      28.45854507     22.15978000      7.31419363 Au
+atom      31.34202066     22.15959257      7.31432168 Au
+atom       2.50603414     22.15953964      7.31420182 Au
+atom       5.38945520     22.15969461      7.31429200 Au
+atom       8.27286937     22.15983207      7.31418963 Au
+atom      11.15674747     22.16014648      7.31396356 Au
+atom      14.03983546     22.16043693      7.31410276 Au
+atom      18.36558117     24.65738168      7.31373270 Au
+atom      21.24943118     24.65727503      7.31435461 Au
+atom      24.13315622     24.65713484      7.31424524 Au
+atom      27.01678340     24.65705041      7.31424798 Au
+atom      29.90038160     24.65684638      7.31427160 Au
+atom       1.06431373     24.65680077      7.31428670 Au
+atom       3.94779202     24.65684885      7.31432052 Au
+atom       6.83106879     24.65709027      7.31427934 Au
+atom       9.71444904     24.65728404      7.31426313 Au
+atom      12.59815232     24.65713228      7.31397299 Au
+atom      15.48161478     24.65759445      7.31399742 Au
+atom      16.92337241     27.15475081      7.31425854 Au
+atom      19.80739310     27.15467212      7.31428239 Au
+atom      22.69127266     27.15431121      7.31428196 Au
+atom      25.57507556     27.15404158      7.31422700 Au
+atom      28.45863362     27.15406629      7.31427093 Au
+atom      31.34203163     27.15399342      7.31428193 Au
+atom       2.50606830     27.15413684      7.31436521 Au
+atom       5.38940081     27.15423102      7.31435362 Au
+atom       8.27262283     27.15436323      7.31434241 Au
+atom      11.15603527     27.15470646      7.31423009 Au
+atom      14.03985140     27.15477714      7.31409958 Au
+atom      18.36547663     29.65118334      7.31439462 Au
+atom      21.24920390     29.65100674      7.31426637 Au
+atom      24.13311144     29.65105946      7.31430333 Au
+atom      27.01685813     29.65107238      7.31425398 Au
+atom      29.90031273     29.65119175      7.31423430 Au
+atom       1.06434969     29.65138235      7.31437555 Au
+atom       3.94772300     29.65146410      7.31436231 Au
+atom       6.83091208     29.65164709      7.31441682 Au
+atom       9.71436133     29.65173958      7.31423795 Au
+atom      12.59789682     29.65176274      7.31426651 Au
+atom      15.48147329     29.65152091      7.31416678 Au
+atom      16.92353498      2.18124780      7.31391451 Au
+atom      19.80734164      2.18100071      7.31439700 Au
+atom      22.69126874      2.18094898      7.31432960 Au
+atom      25.57504744      2.18098104      7.31430103 Au
+atom      28.45847789      2.18125512      7.31429843 Au
+atom      31.34203552      2.18144342      7.31426743 Au
+atom       2.50598521      2.18166612      7.31436932 Au
+atom       5.38935403      2.18173933      7.31438831 Au
+atom       8.27259333      2.18189111      7.31434855 Au
+atom      11.15624587      2.18219698      7.31415330 Au
+atom      14.03954734      2.18166955      7.31425744 Au
+atom      18.36554007      4.67836854      7.31394316 Au
+atom      21.24959524      4.67809398      7.31430394 Au
+atom      24.13283030      4.67821067      7.31413146 Au
+atom      27.01683815      4.67828187      7.31426518 Au
+atom      29.90027090      4.67858249      7.31434281 Au
+atom       1.06425936      4.67881396      7.31426962 Au
+atom       3.94764731      4.67898702      7.31433278 Au
+atom       6.83107429      4.67910503      7.31424803 Au
+atom       9.71480067      4.67944122      7.31418437 Au
+atom      12.59783860      4.67898807      7.31419656 Au
+atom      15.48175705      4.67909161      7.31384931 Au
+atom      16.92405379      7.17556243      7.31449913 Au
+atom      19.80742368      7.17531126      7.31428698 Au
+atom      22.69140358      7.17479799      7.31418751 Au
+atom      25.57488431      7.17528310      7.31412669 Au
+atom      28.45851526      7.17568319      7.31413952 Au
+atom      31.34190955      7.17597953      7.31429762 Au
+atom       2.50605644      7.17619972      7.31418761 Au
+atom       5.38938486      7.17634148      7.31424883 Au
+atom       8.27323020      7.17650567      7.31410993 Au
+atom      11.15646449      7.17656543      7.31416271 Au
+atom      14.04017560      7.17631941      7.31369156 Au
+atom      18.36629904      9.67289428      7.31456338 Au
+atom      21.24939135      9.67225732      7.31191559 Au
+atom      24.13335105      9.67276110      7.31409255 Au
+atom      27.01660975      9.67313403      7.31399625 Au
+atom      29.90030085      9.67295462      7.31423646 Au
+atom       1.06419298      9.67336511      7.31426483 Au
+atom       3.94784674      9.67343333      7.31413478 Au
+atom       6.83147713      9.67376745      7.31424969 Au
+atom       9.71504425      9.67379588      7.31404188 Au
+atom      12.59869169      9.67348301      7.31406964 Au
+atom      15.48249929      9.67367767      7.31177779 Au
+# 
+# What follows is the current estimated Hessian matrix constructed by the BFGS algorithm.
+# This is NOT the true Hessian matrix of the system.
+# If you do not want this information here, switch it off using the "hessian_to_restart_geometry" keyword.
+# 
+
+
